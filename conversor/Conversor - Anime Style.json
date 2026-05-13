@@ -1,12 +1,12 @@
 {
-  "vibe_title_en": "Anime Style Converter (Genshin / Honkai)",
+  "vibe_title_en": "Modern Generic Anime Style (TV/Movie)",
 
-  "master_prompt": "Convert the input image into a high-quality anime illustration in the style of modern fantasy game art (Genshin Impact / Honkai). This is a strict STYLE CONVERSION task: preserve the original character’s identity, pose, and composition while fully redrawing the image in anime style. Enhance clarity, fix anatomy, and improve visual quality. The final result must look like a polished, professional anime splash art.",
+  "master_prompt": "Convert the input image into a high-quality, professional anime illustration in the style of modern generic seasonal anime. This is a strict STYLE CONVERSION task: preserve the original character’s identity, pose, and composition while fully redrawing the image with clean cel-shading, crisp lineart, and vibrant colors typical of high-production TV anime or movies. The final result must look like a polished animation keyframe or official character illustration.",
 
   "meta": {
-    "intent": "Anime style conversion",
+    "intent": "Modern anime style conversion",
     "priority": "Style fidelity + identity preservation",
-    "device_profile": "High-end anime illustration"
+    "device_profile": "High-end anime production"
   },
 
   "input_handling": {
@@ -20,72 +20,73 @@
   "analysis_pipeline": {
     "step_1": "Extract identity, pose, outfit, and composition",
     "step_2": "Apply user instructions with priority",
-    "step_3": "Rebuild using anime style + corrections + enhancements"
+    "step_3": "Rebuild using modern anime style + corrections + enhancements"
   },
 
   "style": {
     "lineart": {
       "rules": [
-        "clean, precise linework",
-        "thin-to-medium line weight variation",
-        "smooth, controlled strokes",
-        "no heavy comic inking"
+        "clean, precise and uniform linework",
+        "medium-thin line weight variation",
+        "smooth, consistent strokes",
+        "professional animation ink look"
       ]
     },
 
     "shading": {
       "rules": [
-        "hybrid anime shading (soft gradients + stylized shadows)",
-        "no harsh cel-shading",
+        "clean cel-shading (crisp shadow edges)",
+        "2-step or 3-step shading layers",
+        "vibrant color contrast in shadows",
         "no muddy blending",
-        "smooth transitions with defined edges"
+        "smooth skin shading with defined shadow blocks"
       ]
     },
 
     "face": {
       "rules": [
-        "large expressive anime eyes",
-        "detailed iris and highlights",
-        "clean eyelash definition",
-        "simplified but elegant nose and lips",
-        "smooth skin tones"
+        "expressive modern anime eyes",
+        "clear iris patterns and specular highlights",
+        "sharp eyelash definition",
+        "simplified but cute/cool nose and mouth",
+        "flat skin tones with clean shadow planes"
       ]
     },
 
     "hair": {
       "rules": [
-        "layered stylized strands",
-        "clear highlight grouping",
-        "soft gradients with sharp accents"
+        "stylized hair clumps with clear silhouettes",
+        "sharp highlights (halo effect)",
+        "cel-shaded depth with shadow layering"
       ]
     },
 
     "materials": {
       "rules": [
-        "stylized but readable",
-        "clean highlights and reflections",
-        "no photorealism"
+        "clean, flat colors with specular highlights",
+        "stylized fabric and metal textures",
+        "no photorealism or heavy textures"
       ]
     }
   },
 
   "color_lighting": {
     "rules": [
-      "vibrant but controlled palette",
-      "balanced saturation",
-      "soft directional lighting",
-      "subtle glow accents (eyes, hair, highlights)"
+      "vibrant and saturated palette",
+      "balanced contrast",
+      "directional lighting with clear shadow mapping",
+      "subtle bloom and glow for highlights"
     ]
   },
 
   "quality_enhancement": {
     "rules": [
-      "high-definition rendering",
-      "extremely clean and sharp image",
-      "refined facial clarity",
-      "enhanced hair flow",
-      "clear costume layering",
-      "remove artifacts"
+      "high-definition digital animation look",
+      "extremely clean and sharp lines",
+      "refined facial features",
+      "enhanced character silhouette",
+      "clear outfit layering",
+      "remove visual noise"
     ]
   },
 
@@ -101,38 +102,38 @@
     "requirements": [
       "hands must have 5 fingers",
       "eyes aligned and complete",
-      "natural proportions"
+      "standard anime proportions"
     ]
   },
 
   "rendering_rules": {
     "rules": [
-      "fully redraw image in anime style",
-      "do not apply filters",
-      "do not partially convert",
-      "maintain identity",
+      "fully redraw image in modern anime style",
+      "ensure it looks like a frame from a high-budget anime",
+      "do not use painterly or 3D filters",
+      "maintain character identity",
       "ensure strong readability and clean silhouette"
     ]
   },
 
   "avoid": [
-    "hard cel-shading",
-    "heavy comic lineart",
+    "soft painterly rendering",
+    "blurry shadow edges",
+    "heavy comic inking",
     "rough sketch lines",
-    "painterly rendering",
     "muddy colors",
     "photorealism",
-    "3D render look",
+    "unrefined 3D render look",
     "western comic style",
     "low detail anime",
-    "blur"
+    "overly complex gradients"
   ],
 
   "internal_logic": [
-    "preserve identity while improving quality",
-    "focus on eyes, face, and expression",
-    "use clean anime rendering",
-    "maintain polish and clarity"
+    "prioritize the 'classic but modern' anime look",
+    "focus on eyes and clean lineart",
+    "use professional cel-shading techniques",
+    "maintain high polish and animation-ready clarity"
   ],
 
   "output_rules": {
@@ -144,18 +145,19 @@
   },
 
   "negative_prompt": [
-    "blurry details",
-    "rough sketch lines",
-    "heavy inking",
-    "hard cel-shading",
-    "muddy shading",
-    "photorealism",
-    "3D render",
+    "blurry",
+    "painterly",
+    "soft shading",
+    "muddy colors",
+    "rough lines",
+    "low resolution",
     "distorted anatomy",
     "extra fingers",
     "missing fingers",
     "asymmetrical eyes",
-    "low detail anime",
-    "washed colors"
+    "photorealistic",
+    "3D render style",
+    "western cartoon",
+    "sketched"
   ]
-}
+}
