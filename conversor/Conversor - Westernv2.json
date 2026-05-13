@@ -1,0 +1,143 @@
+{
+        "vibe_title_en": "Pure Western Comic Book Converter",
+        "master_prompt": "Convert the input image into a professional 2D hand-drawn Western comic book illustration. This is a STRICT STYLE CONVERSION task: preserve the original character identity, pose, silhouette, framing, composition, and emotional tone while completely replacing the rendering style with bold graphic comic art aesthetics inspired by modern DC, Marvel, Image Comics, graphic novels, and stylized indie comic games.",
+        "meta": {
+                "intent": "Pure western comic style conversion",
+                "absolute_priority": "Graphic readability and comic inking over rendering beauty",
+                "target_style": "Western comic book / graphic novel",
+                "avoid": [
+                        "anime aesthetics",
+                        "manga aesthetics",
+                        "gacha splash art",
+                        "semi-realistic anime rendering",
+                        "soft painterly rendering",
+                        "cinematic realism",
+                        "3D rendering"
+                ]
+        },
+        "input_handling": {
+                "base_image": "MANDATORY",
+                "rules": [
+                        "Preserve the original character identity",
+                        "Preserve the original pose and silhouette",
+                        "Preserve the original composition and framing",
+                        "Only replace the rendering style",
+                        "Do not redesign the character"
+                ]
+        },
+        "style_core": {
+                "absolute_rules": [
+                        "Prioritize INKING over PAINTING",
+                        "Prioritize GRAPHIC SHAPES over realistic rendering",
+                        "Use visible black contour lines at all times",
+                        "Use strong silhouette readability",
+                        "Use comic-book abstraction instead of realistic rendering",
+                        "Shadows must be shape-based, not gradient-based",
+                        "Rendering must feel hand-inked and graphic",
+                        "Faces must follow western comic stylization, not anime beauty standards"
+                ]
+        },
+        "line_art": {
+                "required": true,
+                "description": "Bold expressive comic inking with visible hand-drawn contour lines and strong line hierarchy",
+                "rules": [
+                        "Thick outer silhouette lines",
+                        "Thin interior detail lines",
+                        "Angular ink strokes",
+                        "Heavy black accents in folds and cast shadows",
+                        "Visible contour definition around anatomy and clothing",
+                        "Graphic ink separation between light and shadow"
+                ]
+        },
+        "shading": {
+                "type": "hard graphic cel shading",
+                "rules": [
+                        "NO soft shading",
+                        "NO airbrush rendering",
+                        "NO smooth gradients",
+                        "Use hard-edged shadow blocks",
+                        "Use solid black spot shadows",
+                        "Use angular shadow planes",
+                        "Use graphic contrast instead of realistic light falloff",
+                        "Shadows should simplify forms into readable shapes"
+                ]
+        },
+        "rendering": {
+                "medium": "2D comic illustration",
+                "finish": "sharp, graphic, ink-focused",
+                "rules": [
+                        "Avoid painterly rendering",
+                        "Avoid realistic material rendering",
+                        "Avoid soft skin rendering",
+                        "Avoid cinematic glow effects",
+                        "Avoid volumetric rendering",
+                        "Use flat or semi-flat color planes",
+                        "Maintain strong graphic clarity"
+                ]
+        },
+        "anatomy_and_face": {
+                "style": "western comic stylization",
+                "rules": [
+                        "Defined facial planes",
+                        "Structured jawline",
+                        "Readable nose structure",
+                        "Expressive but non-anime eyes",
+                        "Heroic comic proportions",
+                        "Avoid anime facial simplification",
+                        "Preserve the original character identity"
+                ]
+        },
+        "palette": {
+                "rules": [
+                        "Use controlled comic-book color harmony",
+                        "Favor darker graphic contrast",
+                        "Use selective accent colors",
+                        "Background should support silhouette readability",
+                        "Avoid oversaturated anime color palettes"
+                ]
+        },
+        "lighting": {
+                "type": "graphic directional lighting",
+                "rules": [
+                        "Lighting must create strong readable shadow shapes",
+                        "Use dramatic comic-book contrast",
+                        "Prioritize silhouette readability over realism",
+                        "Avoid soft cinematic lighting",
+                        "Avoid realistic bounce light"
+                ]
+        },
+        "composition": {
+                "rules": [
+                        "Preserve original framing",
+                        "Keep character as main focal point",
+                        "Avoid clutter",
+                        "Support the figure with simple atmospheric background design"
+                ]
+        },
+        "negative_prompt": [
+                "anime",
+                "manga",
+                "gacha art",
+                "Honkai style",
+                "Genshin style",
+                "Wuthering Waves style",
+                "soft painterly rendering",
+                "semi-realistic anime",
+                "photorealism",
+                "3D render",
+                "cinematic realism",
+                "airbrush shading",
+                "smooth gradients",
+                "soft skin",
+                "glossy anime eyes",
+                "cute anime face",
+                "plastic skin",
+                "overrendered materials",
+                "blur",
+                "washed out line art",
+                "missing outlines",
+                "thin invisible outlines"
+        ],
+        "internal_generation_logic": "Redraw the original image as a true western comic illustration using strong black ink lines, hard cel shading, graphic shadow shapes, visible contour work, and simplified readable forms. Preserve the original identity and composition while replacing all anime or painterly rendering with bold comic-book aesthetics.",
+        "final_output_instruction": "Generate only the final image."
+}

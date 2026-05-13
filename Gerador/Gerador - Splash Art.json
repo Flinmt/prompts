@@ -1,0 +1,271 @@
+{
+    "vibe_title_en": "AAA Stylized Hybrid Splash Art (Cartoon/Semi-Realism)",
+    "master_prompt": "A cinematic, ultra high-detail 2D digital hand-drawn splash art illustration of {subject}, featuring a modern stylized hybrid aesthetic (a masterful mix of cartoon aesthetics and semi-realism). Adhere strictly to a 60/30/10 color palette: {primary_color} (60%), {secondary_color} (30%), and {accent_color} (10%). Strictly 2D aesthetic: include a clean, expressive black outline around the character silhouette. Use dynamic asymmetrical composition (Rule of Thirds), positioning the character to one side to allow the background to reveal their narrative. The background must feature simplified, symbolic silhouettes (like banners, architecture, or emblems) that reflect the character's lore. Absolute focus on anatomical integrity, correct 5-finger hand structure, and strictly following the user-defined facial shape. Framing from head to mid-thigh (below the waistline).",
+    "meta": {
+        "intent": "Character-focused AAA splash art design",
+        "priorities": "Character detail, face clarity, clothing detail, anatomy accuracy, hand consistency, strong silhouette, controlled cinematic composition",
+        "device_profile": "High-end character splash art"
+    },
+    "color_scheme": {
+        "rule": "60/30/10",
+        "distribution": {
+            "primary_60": "Main clothing/armor and dominant background atmosphere",
+            "secondary_30": "Secondary clothing parts, accessories, and environmental framing elements",
+            "accent_10": "Jewelry, magical highlights, eye color, and fine details"
+        },
+        "colors": {
+            "primary": "{primary_color}",
+            "secondary": "{secondary_color}",
+            "accent": "{accent_color}"
+        }
+    },
+    "reference_control": {
+        "mode": "controlled_inspiration",
+        "description": "Reference images are used ONLY for inspiration, never as a base.",
+        "influence_level": "medium",
+        "allowed_influence": [
+            "mood",
+            "theme",
+            "color palette",
+            "general aesthetic"
+        ],
+        "strict_restrictions": [
+            "do not copy face",
+            "do not copy pose",
+            "do not copy silhouette",
+            "do not copy outfit",
+            "do not reuse composition",
+            "no tracing",
+            "no overlay",
+            "no ghost silhouettes",
+            "no duplicated shapes",
+            "no translucent remnants of the reference"
+        ],
+        "generation_rule": "The character must be fully redesigned and generated from scratch."
+    },
+    "user_input_override": {
+        "priority": "MAXIMUM",
+        "instruction": "All user-defined traits must be fully integrated.",
+        "includes": [
+            "clothing or armor design",
+            "color palette (60/30/10 rule)",
+            "traits (scars, tattoos, accessories)",
+            "personality and archetype",
+            "aesthetic direction"
+        ]
+    },
+    "character_focus_system": {
+        "primary_focus": "Character",
+        "priority_distribution": {
+            "character": "80%",
+            "hands": "15%",
+            "environment": "5%"
+        },
+        "rules": [
+            "The character must receive maximum detail, refinement, and rendering quality",
+            "Face must be the sharpest and most detailed area in the image",
+            "Clothing, armor, accessories, and materials must have high readability",
+            "Anatomy must be clean, balanced, and believable",
+            "Hands must be readable and anatomically correct",
+            "Environment must never compete with the character",
+            "If complexity becomes too high, reduce environment detail first"
+        ]
+    },
+    "frame": {
+        "aspect_ratio": "4:3",
+        "composition": "Extended half-body splash art",
+        "layout": "Dynamic asymmetrical framing (Rule of Thirds); character positioned off-center (left or right) to balance with narrative elements; hips fully visible; no knees; no lower legs; no head cropping",
+        "character_size": "Character remains the main subject but is dynamically positioned to allow the background to reveal narrative details",
+        "camera_system": {
+            "mode": "controlled_dynamic",
+            "possible_angles": [
+                "eye-level dramatic",
+                "slight low-angle for impact",
+                "dynamic asymmetrical tilt"
+            ],
+            "rule": "Camera must enhance character presence while maintaining perfect face and hand clarity"
+        },
+        "depth": "Clear foreground / character / background separation"
+    },
+    "composition_control": {
+        "rule": "Character is always the main visual subject",
+        "framing": [
+            "Character should dominate the frame",
+            "Avoid excessive empty space",
+            "Avoid cluttered background elements",
+            "Background should frame the character, not distract from them",
+            "Silhouette must remain instantly readable"
+        ],
+        "camera_behavior": "Avoid extreme camera angles that reduce character clarity"
+    },
+    "subject": {
+        "identity": "{subject}",
+        "archetype": "{archetype}",
+        "pose": "Dynamic but controlled, expressive, readable, and anatomically believable",
+        "expression": "{expression}",
+        "focus": "Face is the primary focal point"
+    },
+    "hands_control": {
+        "priority": "HIGH",
+        "visibility_rule": "At least one hand should be clearly visible, simple, and anatomically correct",
+        "preferred_poses": [
+            "Relaxed open hand",
+            "Natural semi-closed hand",
+            "Light grip on a weapon, staff, clothing, or accessory",
+            "One hand visible and clean, the other partially hidden or simplified"
+        ],
+        "avoid": [
+            "Hands covering each other",
+            "Extreme finger foreshortening",
+            "Fully clenched fists facing the camera",
+            "Overlapping or tangled fingers",
+            "Hands too close to the camera lens",
+            "Complex spellcasting finger poses",
+            "Tiny distant hands with unclear structure"
+        ],
+        "fallback_rule": "If a clean hand pose is not achievable, partially occlude one hand using clothing, props, armor, cape, weapon, or framing",
+        "design_intent": "Hands should support the character design, not become the main visual challenge"
+    },
+    "design_rules": {
+        "originality": [
+            "Completely new character",
+            "No reuse of reference structure",
+            "No visual cloning"
+        ],
+        "cohesion": [
+            "All elements must feel unified",
+            "Design must reflect personality and archetype",
+            "Silhouette must be strong and readable",
+            "Every outfit detail must support the character identity"
+        ]
+    },
+    "wardrobe_accessories": {
+        "detail_level": "Very high",
+        "materials": [
+            "metal",
+            "fabric",
+            "leather",
+            "fur",
+            "jewelry",
+            "graphic ink textures",
+            "magical materials if relevant"
+        ],
+        "rules": [
+            "Clothing and armor must be highly detailed and readable",
+            "Materials must have realistic surface response",
+            "Accessories must feel physically attached and believable",
+            "Readable macro shapes first, micro details second"
+        ]
+    },
+    "environment": {
+        "detail_level": "Low (Simplified & Stylized)",
+        "purpose": "Minimalist narrative support for character identity",
+        "strict_rules": [
+            "Environment colors must be derived from the Primary (60%) and Secondary (30%) palette colors to ensure visual cohesion and keep the focus on the character",
+            "Incorporate simplified silhouettes and iconic shapes (banners, structures, symbols) that represent the character's faction or origin",
+            "Keep the background simple, stylized, and abstract silhouettes to minimize LLM complexity",
+            "Background must complement the character's story through symbolic storytelling but never compete for detail",
+            "Avoid visual noise and clutter",
+            "Do not compete with the character silhouette",
+            "Do not draw attention away from the face, outfit, hands, or anatomy",
+            "Background should feel like a supporting atmospheric and narrative layer"
+        ],
+        "composition_role": "Acts as a framing layer behind the character",
+        "fallback_behavior": "If visual complexity increases, environment detail must be reduced automatically to prioritize character rendering"
+    },
+    "lighting": {
+        "style": "Controlled cinematic splash art lighting",
+        "focus_rules": [
+            "Face must receive the clearest and strongest lighting",
+            "Hands must be clearly visible when present",
+            "Clothing and materials must remain readable",
+            "Background lighting must be softer and less contrast-heavy"
+        ],
+        "key_light": "Strong directional light on the character",
+        "rim_light": "Subtle to pronounced rim light for silhouette separation",
+        "accent_lights": "Allowed only if they support the character design",
+        "shadows": "Deep but readable",
+        "rule": "Lighting must guide the viewer’s eye: face → outfit → hands → body → environment"
+    },
+    "rendering": {
+        "style": "2D Stylized Digital Illustration",
+        "quality": "AAA Graphic Art",
+        "lineart": "Mandatory clean expressive black outline around the character silhouette",
+        "shading": "Graphic cel-shading and hard-edged stylized shadow planes (strictly 2D look, no smooth 3D gradients)",
+        "edges": "Crisp, sharp, and hand-drawn",
+        "textures": "Stylized 2D textures, strictly no realistic skin pores or 3D-like material depth",
+        "brushwork": "Visible but controlled digital brushstrokes, graphic novel aesthetic",
+        "finish": "Professional 2D splash art finish, strictly no 3D, CGI, or volumetric characteristics"
+    },
+    "clarity_control": {
+        "rule": "Character detail always takes priority over environment detail",
+        "priority_order": [
+            "face",
+            "outfit and armor",
+            "hands",
+            "anatomy",
+            "hair",
+            "accessories",
+            "environment"
+        ],
+        "fail_safe": "If detail budget is exceeded, reduce background detail, effects, and environmental complexity before reducing character quality"
+    },
+    "anatomy": {
+        "priority": "CRITICAL",
+        "requirements": [
+            "Correct human or humanoid anatomy according to the character species",
+            "Correct body proportions",
+            "Natural stance and balance",
+            "Dynamic but believable pose",
+            "Aligned facial features",
+            "Correct hand anatomy",
+            "Each visible hand must have exactly 5 fingers",
+            "Thumb must be clearly separated and anatomically correct",
+            "No fused fingers",
+            "No extra fingers",
+            "No missing fingers",
+            "Natural finger proportions and spacing",
+            "Hands must match the perspective of arms and camera",
+            "No broken wrists",
+            "No impossible bending",
+            "Hands must look functional and believable",
+            "Strictly follow the user-defined face shape (oval, triangular, round, etc.), overriding the default square-jaw heroic bias"
+        ],
+        "focus_rule": "Hands must be rendered cleanly when visible, but complex hand poses should be avoided"
+    },
+    "anti_artifacts": {
+        "forbidden": [
+            "3D render",
+            "CGI",
+            "unreal engine",
+            "octane render",
+            "photorealism",
+            "volumetric lighting",
+            "depth of field",
+            "blur",
+            "haze",
+            "soft focus",
+            "low detail",
+            "distortion",
+            "extra fingers",
+            "missing fingers",
+            "fused fingers",
+            "deformed hands",
+            "rubber-like fingers",
+            "unclear finger separation",
+            "broken wrists",
+            "impossible hand angles",
+            "mutated hands",
+            "bad anatomy",
+            "warped face",
+            "asymmetrical eyes",
+            "flat composition",
+            "static boring pose",
+            "overly complex background",
+            "background stealing focus",
+            "visual clutter",
+            "anime style",
+            "cartoon style"
+        ]
+    }
+}

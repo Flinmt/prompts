@@ -1,0 +1,161 @@
+{
+  "vibe_title_en": "Anime Style Converter (Genshin / Honkai)",
+
+  "master_prompt": "Convert the input image into a high-quality anime illustration in the style of modern fantasy game art (Genshin Impact / Honkai). This is a strict STYLE CONVERSION task: preserve the original character’s identity, pose, and composition while fully redrawing the image in anime style. Enhance clarity, fix anatomy, and improve visual quality. The final result must look like a polished, professional anime splash art.",
+
+  "meta": {
+    "intent": "Anime style conversion",
+    "priority": "Style fidelity + identity preservation",
+    "device_profile": "High-end anime illustration"
+  },
+
+  "input_handling": {
+    "base_image": "MANDATORY",
+    "rules": [
+      "Preserve character identity, pose, and intent",
+      "User instructions override the image when needed"
+    ]
+  },
+
+  "analysis_pipeline": {
+    "step_1": "Extract identity, pose, outfit, and composition",
+    "step_2": "Apply user instructions with priority",
+    "step_3": "Rebuild using anime style + corrections + enhancements"
+  },
+
+  "style": {
+    "lineart": {
+      "rules": [
+        "clean, precise linework",
+        "thin-to-medium line weight variation",
+        "smooth, controlled strokes",
+        "no heavy comic inking"
+      ]
+    },
+
+    "shading": {
+      "rules": [
+        "hybrid anime shading (soft gradients + stylized shadows)",
+        "no harsh cel-shading",
+        "no muddy blending",
+        "smooth transitions with defined edges"
+      ]
+    },
+
+    "face": {
+      "rules": [
+        "large expressive anime eyes",
+        "detailed iris and highlights",
+        "clean eyelash definition",
+        "simplified but elegant nose and lips",
+        "smooth skin tones"
+      ]
+    },
+
+    "hair": {
+      "rules": [
+        "layered stylized strands",
+        "clear highlight grouping",
+        "soft gradients with sharp accents"
+      ]
+    },
+
+    "materials": {
+      "rules": [
+        "stylized but readable",
+        "clean highlights and reflections",
+        "no photorealism"
+      ]
+    }
+  },
+
+  "color_lighting": {
+    "rules": [
+      "vibrant but controlled palette",
+      "balanced saturation",
+      "soft directional lighting",
+      "subtle glow accents (eyes, hair, highlights)"
+    ]
+  },
+
+  "quality_enhancement": {
+    "rules": [
+      "high-definition rendering",
+      "extremely clean and sharp image",
+      "refined facial clarity",
+      "enhanced hair flow",
+      "clear costume layering",
+      "remove artifacts"
+    ]
+  },
+
+  "anatomy_correction": {
+    "auto_fix": [
+      "extra or missing fingers",
+      "broken anatomy",
+      "misaligned eyes",
+      "missing iris or pupil",
+      "distorted face",
+      "unnatural limbs"
+    ],
+    "requirements": [
+      "hands must have 5 fingers",
+      "eyes aligned and complete",
+      "natural proportions"
+    ]
+  },
+
+  "rendering_rules": {
+    "rules": [
+      "fully redraw image in anime style",
+      "do not apply filters",
+      "do not partially convert",
+      "maintain identity",
+      "ensure strong readability and clean silhouette"
+    ]
+  },
+
+  "avoid": [
+    "hard cel-shading",
+    "heavy comic lineart",
+    "rough sketch lines",
+    "painterly rendering",
+    "muddy colors",
+    "photorealism",
+    "3D render look",
+    "western comic style",
+    "low detail anime",
+    "blur"
+  ],
+
+  "internal_logic": [
+    "preserve identity while improving quality",
+    "focus on eyes, face, and expression",
+    "use clean anime rendering",
+    "maintain polish and clarity"
+  ],
+
+  "output_rules": {
+    "rules": [
+      "output only the final image",
+      "no explanations",
+      "no descriptions"
+    ]
+  },
+
+  "negative_prompt": [
+    "blurry details",
+    "rough sketch lines",
+    "heavy inking",
+    "hard cel-shading",
+    "muddy shading",
+    "photorealism",
+    "3D render",
+    "distorted anatomy",
+    "extra fingers",
+    "missing fingers",
+    "asymmetrical eyes",
+    "low detail anime",
+    "washed colors"
+  ]
+}

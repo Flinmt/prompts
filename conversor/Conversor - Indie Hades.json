@@ -1,0 +1,102 @@
+{
+  "vibe_title_en": "Indie Game Art Converter (Hades Style)",
+  "master_prompt": "Convert the input image into a high-quality 2D digital illustration in the signature 'Hades' indie game art style. This is a strict STYLE CONVERSION: preserve the original character identity, pose, and composition. The final art must feature thick, expressive black ink lines, high-contrast lighting, and vibrant color highlights against deep shadows. The result should look like a professional, hand-drawn character portrait with a graphic, bold, and mythological aesthetic.",
+  "meta": {
+    "intent": "Image style conversion to Hades-inspired art",
+    "priority": "Graphic inking accuracy + identity preservation",
+    "target_style": "Indie Game Art / Hades aesthetic / Graphic Inking",
+    "avoid": "Photorealism, 3D renders, soft painterly gradients, anime/manga styles"
+  },
+  "input_handling": {
+    "base_image": "MANDATORY",
+    "rules": [
+      "Preserve character identity, pose, and silhouette",
+      "Convert the rendering technique from the source image to the Hades aesthetic",
+      "User instructions override source image details when specified"
+    ]
+  },
+  "hades_art_pipeline": {
+    "inking_phase": [
+      "Redraw with bold black expressive outlines",
+      "Use varied line weight: thick outer silhouettes, delicate inner details",
+      "Integrate solid black shapes in hair, fabric folds, and deep shadows (spot blacks)",
+      "Apply sharp, angular ink strokes that define form and motion"
+    ],
+    "shading_phase": [
+      "Apply hard-edged cel-shading with no soft gradients",
+      "Use strong geometric shadow planes to sculpt the face and body",
+      "Combine dark shadow blocks with vibrant, high-saturation highlights"
+    ],
+    "coloring_phase": [
+      "Use a vibrant, high-contrast palette: Gold, Deep Crimson, Electric Purple, and Teal",
+      "Incorporate glowing magical effects or embers if applicable",
+      "Keep skin tones stylized and graphic, avoiding realistic textures"
+    ]
+  },
+  "style_rules": {
+    "line_art": {
+      "required": true,
+      "description": "Bold, expressive, and varied black inking inspired by graphic novels and Greek pottery silhouettes",
+      "details": [
+        "Thick outer contour lines (inking)",
+        "Sharp interior detail lines",
+        "Solid black sections for deep shadows and hair depth"
+      ]
+    },
+    "shading_and_lighting": {
+      "type": "High-contrast graphic cel-shading",
+      "rules": [
+        "Strictly no soft shading or airbrushed effects",
+        "Shadows must be sharp, angular, and defined",
+        "Cast shadows must be solid and bold"
+      ]
+    },
+    "palette": {
+      "vibe": "Royal, mythological, and vibrant",
+      "primary_tones": [
+        "Gold (accent/light)",
+        "Crimson red",
+        "Deep charcoal / Obsidian",
+        "Vibrant teal or purple",
+        "Earthy bronze"
+      ],
+      "rules": [
+        "High saturation in light areas",
+        "Deep, near-black values in shadow areas",
+        "Strict 60/30/10 distribution applied to the new style"
+      ]
+    },
+    "anatomy_and_face": {
+      "style": "Stylized heroic realism",
+      "rules": [
+        "Preserve face identity but apply graphic lineart",
+        "Sharp, defined facial planes (jaw, nose, cheekbones)",
+        "Bold expressive eyes",
+        "No anime/manga exaggeration"
+      ]
+    }
+  },
+  "negative_prompt": [
+    "3D render",
+    "CGI",
+    "photorealistic",
+    "soft shading",
+    "smooth gradients",
+    "airbrush",
+    "realistic skin",
+    "anime eyes",
+    "manga style",
+    "low contrast",
+    "blurry",
+    "watercolor",
+    "oil painting",
+    "thin lines",
+    "missing outlines",
+    "overly cute",
+    "washed out colors",
+    "unreal engine",
+    "plastic texture"
+  ],
+  "internal_logic": "Reinterpret the source image using the 'Hades' game art DNA: Bold inking, vibrant color pops, high-contrast lighting, and 2D graphic excellence. Ensure the character looks like a legendary hero or god from a stylized indie masterpiece.",
+  "final_output_instruction": "Generate only the final converted image. No text commentary."
+}

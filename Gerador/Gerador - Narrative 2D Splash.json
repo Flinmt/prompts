@@ -1,0 +1,88 @@
+{
+    "vibe_title_en": "AAA Narrative 2D Splash Art (Definitive Edition)",
+    "master_prompt": "A cinematic, ultra high-detail 2D digital stylized splash art illustration of {subject}, featuring a modern hybrid aesthetic (masterful mix of cartoon aesthetics and semi-realism). Adhere strictly to a 60/30/10 color palette: {primary_color} (60%), {secondary_color} (30%), and {accent_color} (10%). Use dynamic asymmetrical composition (Rule of Thirds), positioning the character to one side (left or right) to allow the background to reveal their narrative. Forms must be defined by light, value, and stylized color planes, with soft or no visible lineart. The background must feature simplified, symbolic silhouettes (like banners, iconic architecture, or emblems) that reflect the character's lore. Absolute focus on anatomical integrity, correct 5-finger hand structure, and strictly following the user-defined facial shape. Framing from head to mid-thigh (below the waistline).",
+    "meta": {
+        "intent": "Premium character-focused storytelling splash art",
+        "priorities": "Narrative integration, asymmetrical balance, anatomical perfection, 2D hand-drawn look",
+        "version": "1.0 - Definitive"
+    },
+    "color_scheme": {
+        "rule": "60/30/10",
+        "distribution": {
+            "primary_60": "Dominant clothing/armor and overall environmental atmosphere",
+            "secondary_30": "Secondary attire parts, equipment, and narrative background silhouettes",
+            "accent_10": "Jewelry, magical essence, eyes, and fine metallic/glowing details"
+        },
+        "colors": {
+            "primary": "",
+            "secondary": "",
+            "accent": ""
+        }
+    },
+    "user_input_override": {
+        "priority": "MAXIMUM",
+        "instruction": "All user-defined traits must be fully integrated.",
+        "includes": [
+            ""
+        ]
+    },
+    "composition_system": {
+        "rule": "Dynamic Asymmetry (Rule of Thirds)",
+        "aspect_ratio": "9:16",
+        "layout": "Extended half-body; Character positioned on right third of the frame; Hips fully visible; No legs/knees",
+        "balance": "Balance character weight with symbolic background elements on the opposite side",
+        "camera_angle": "Eye-level dramatic or slight low-angle for status and impact",
+        "depth_control": "Clear separation between character (with outline) and narrative background layer"
+    },
+    "background_storytelling": {
+        "type": "Stylized Narrative Silhouettes",
+        "rules": [
+            "Incorporate iconic shapes (banners, structures, emblems) that represent the character's lore",
+            "Keep elements simplified and stylized to maintain AI focus on character anatomy",
+            "Background colors must be derived from the Primary (60%) and Secondary (30%) palette",
+            "Use symbolic elements to tell a story without adding technical visual clutter",
+            "Background must remain sharp and clean, serving as a supporting atmospheric layer"
+        ]
+    },
+    "rendering_2d_standard": {
+        "style": "Modern Stylized Illustration (Painterly Hybrid)",
+        "lineart": "None visible or highly subtle (integrated into the color planes); forms defined by light and material contrast",
+        "shading": "Masterful mix of stylized shadow planes and soft form-defining gradients",
+        "edges": "Crisp, sharp, and hand-drawn quality",
+        "textures": "Simplified material readability, no photorealistic skin or surface pores",
+        "brushwork": "Refined digital brushstrokes with a painterly but polished finish",
+        "prohibited": [
+            "3D render",
+            "CGI",
+            "Unreal Engine",
+            "Octane Render",
+            "Ray-tracing",
+            "Photorealism",
+            "Depth of field",
+            "Volumetric fog"
+        ]
+    },
+    "anatomy_face_control": {
+        "priority": "CRITICAL",
+        "face_rules": [
+            "Strictly follow the user-defined face shape (oval, triangular, round, etc.)",
+            "Override default heroic square-jaw bias",
+            "Sharp facial clarity with symmetrical features",
+            "Expressive eyes matching the character's lore"
+        ],
+        "hand_rules": [
+            "Exactly 5 fingers per hand",
+            "Anatomically correct structure and spacing",
+            "No fused or distorted fingers",
+            "Natural hand-wrist alignment"
+        ],
+        "body_rules": [
+            "Correct humanoid proportions and balance",
+            "Strong, readable silhouette",
+            "Natural limb positioning"
+        ]
+    },
+    "fail_safe": {
+        "rule": "If generation complexity increases, reduce environment detail first to protect character anatomy and facial integrity."
+    }
+}
