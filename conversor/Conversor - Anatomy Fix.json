@@ -1,0 +1,157 @@
+{
+  "vibe_title_en": "Anatomy Error Correction Converter",
+  "master_prompt": "Correct the anatomical errors in the input image while preserving the original character identity, art style, pose intention, composition, lighting, colors, clothing, accessories, and overall mood. This is a strict ANATOMY CORRECTION task, not a style conversion or creative redesign. Keep the image as visually close to the original as possible, but repair distorted anatomy, incorrect proportions, malformed hands, extra or missing fingers, unnatural joints, broken limb alignment, warped facial structure, asymmetry errors, and body balance issues. The final result must look like the same image after a professional anatomy cleanup pass.",
+  "meta": {
+    "intent": "Image anatomy correction",
+    "priority": "Anatomical integrity + original image preservation",
+    "target_operation": "Correct anatomy only",
+    "avoid": "style change, redesign, new pose, new outfit, new character, different face, different rendering style"
+  },
+  "input_handling": {
+    "base_image": "MANDATORY",
+    "optional_text_instructions": true,
+    "rules": [
+      "Preserve the original character identity, pose intention, silhouette, composition, framing, color palette, lighting, rendering style, and mood",
+      "User text instructions override the original image only when they explicitly describe anatomical corrections or preservation priorities",
+      "If no text instructions are provided, only repair visible anatomical mistakes while keeping all artistic choices unchanged",
+      "Do not introduce new character traits, new props, new clothing, new background elements, or a different art style"
+    ]
+  },
+  "user_input_override": {
+    "priority": "MAXIMUM",
+    "instruction": "All user-defined anatomy corrections and preservation instructions must be fully integrated.",
+    "includes": [
+      ""
+    ]
+  },
+  "analysis_pipeline": {
+    "step_1_original_image_analysis": [
+      "Identify the original art style, rendering method, line quality, shading, palette, lighting direction, and finish",
+      "Identify the character's physical traits, face structure, expression, hairstyle, body type, clothing, accessories, and pose intention",
+      "Identify the composition, camera angle, perspective, crop, background, and focal point",
+      "Identify all anatomical errors without changing correct or intentional stylized features"
+    ],
+    "step_2_anatomy_diagnosis": [
+      "Check head-to-body proportion, neck placement, shoulder width, torso length, pelvis alignment, limb length, joint placement, and body balance",
+      "Check arms, elbows, wrists, legs, knees, ankles, hands, fingers, feet, and visible joints for deformation or unnatural bends",
+      "Check hand anatomy for exactly 5 fingers per hand when visible, natural finger spacing, correct knuckles, believable palm structure, and natural wrist alignment",
+      "Check facial anatomy for eye alignment, nose and mouth placement, jaw shape, cheek structure, ear placement, and expression consistency",
+      "Check perspective consistency so foreshortened limbs remain believable without becoming tangled, melted, stretched, or broken"
+    ],
+    "step_3_correction_application": [
+      "Repair only the anatomical mistakes while preserving the original pose intention",
+      "Adjust proportions subtly so the character remains recognizable and stylistically consistent",
+      "Correct hands and fingers with clear natural structure, avoiding fused digits, extra fingers, missing fingers, or claw-like deformation",
+      "Correct limb alignment and joint placement while keeping the original gesture and silhouette as close as possible",
+      "Correct facial structure only enough to remove distortion while preserving the original face identity, expression, and face shape",
+      "Preserve the original clothing design and adapt folds only where anatomy correction requires it",
+      "Preserve the original lighting, shadows, color palette, brushwork, lineart, and texture style"
+    ]
+  },
+  "preservation_rules": {
+    "style_preservation": {
+      "required": true,
+      "description": "The corrected image must retain the same visual style as the input image.",
+      "rules": [
+        "Do not convert the image into anime, comic, photorealistic, painterly, 3D, or any other style unless the original already uses that style",
+        "Do not add more detail than the original image supports",
+        "Do not simplify, beautify, age, de-age, or redesign the character",
+        "Do not change the character's species, gender presentation, body type, ethnicity, outfit, props, hairstyle, or expression unless explicitly requested",
+        "Do not change the background, camera angle, crop, or composition unless required to fix anatomy"
+      ]
+    },
+    "pose_preservation": {
+      "required": true,
+      "description": "Maintain the original pose intention while making it anatomically believable.",
+      "rules": [
+        "Keep the same action line, gesture, attitude, and emotional tone",
+        "Avoid replacing the pose with a generic safe pose",
+        "Avoid extreme pose changes unless the original anatomy is impossible to repair otherwise",
+        "Maintain silhouette readability and character-background separation",
+        "Keep visible hands visible whenever possible"
+      ]
+    }
+  },
+  "anatomy_correction_rules": {
+    "body": [
+      "Correct humanoid proportions according to the original stylization level",
+      "Maintain believable skeletal structure beneath the stylized design",
+      "Align head, neck, shoulders, ribcage, pelvis, and limbs naturally",
+      "Fix twisted torsos, broken spines, misplaced shoulders, floating limbs, uneven limb lengths, and collapsed body balance",
+      "Respect perspective and foreshortening without allowing distortion"
+    ],
+    "hands": [
+      "Exactly 5 fingers per visible hand unless the character design explicitly has a different anatomy",
+      "Correct palm structure, thumb placement, knuckle rhythm, finger taper, and finger length hierarchy",
+      "No fused fingers, extra fingers, missing fingers, rubber fingers, claw hands, or melted hands",
+      "Natural hand-wrist alignment",
+      "Hands should support the original gesture and object interaction"
+    ],
+    "face": [
+      "Preserve the original face identity and face shape",
+      "Correct distorted facial symmetry while keeping natural expression",
+      "Align eyes, brows, nose, mouth, jaw, ears, and hairline believably",
+      "Avoid changing the character into a different person",
+      "Avoid default beauty-face replacement"
+    ],
+    "clothing_and_props": [
+      "Preserve all clothing, armor, props, weapons, accessories, and materials",
+      "Adjust fabric folds only where corrected anatomy requires it",
+      "Keep props correctly gripped, worn, or attached to the body",
+      "Do not add or remove equipment unless explicitly requested"
+    ]
+  },
+  "quality_targets": {
+    "image_quality": [
+      "same art style as the input",
+      "clean corrected anatomy",
+      "recognizable original identity",
+      "natural hands and fingers",
+      "believable proportions",
+      "stable body balance",
+      "consistent perspective",
+      "no unnecessary redesign"
+    ],
+    "composition": [
+      "preserve the original framing",
+      "preserve the character as the main focal point",
+      "preserve background hierarchy",
+      "avoid introducing clutter or new narrative elements"
+    ]
+  },
+  "negative_prompt": [
+    "style change",
+    "redesigned character",
+    "different character identity",
+    "different face",
+    "different outfit",
+    "different hairstyle",
+    "different pose",
+    "new background",
+    "anime conversion",
+    "comic conversion",
+    "photorealistic conversion",
+    "3D render",
+    "CGI",
+    "overpainted redesign",
+    "beauty filter",
+    "extra fingers",
+    "missing fingers",
+    "fused fingers",
+    "deformed hands",
+    "broken wrists",
+    "twisted arms",
+    "broken legs",
+    "misplaced joints",
+    "bad anatomy",
+    "distorted face",
+    "asymmetrical eyes",
+    "warped mouth",
+    "unnatural neck",
+    "floating limbs",
+    "melted body",
+    "unrecognizable identity"
+  ],
+  "internal_generation_logic": "Perform a professional anatomy cleanup pass on the input image. First preserve the original style, identity, pose intention, composition, color palette, lighting, and mood. Then correct anatomical mistakes only where they appear: hands, fingers, limbs, joints, torso, neck, face structure, balance, and perspective. Keep every correction subtle and faithful so the final image feels like the same artwork with repaired anatomy, not a new illustration.",
+  "final_output_instruction": "Generate only the corrected final image. Do not explain the process."
+}

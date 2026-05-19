@@ -1,92 +1,126 @@
 {
-  "vibe_title_en": "Modern Generic Anime Style (TV/Movie)",
+  "vibe_title_en": "Modern Seasonal Anime Frame Style",
 
-  "master_prompt": "Convert the input image into a high-quality, professional anime illustration in the style of modern generic seasonal anime. This is a strict STYLE CONVERSION task: preserve the original character’s identity, pose, and composition while fully redrawing the image with clean cel-shading, crisp lineart, and vibrant colors typical of high-production TV anime or movies. The final result must look like a polished animation keyframe or official character illustration.",
+  "master_prompt": "Convert the input image into a high-quality modern seasonal anime frame aesthetic. This is a strict STYLE CONVERSION task: preserve the original character identity, pose, outfit, expression, and composition while fully redrawing the image in a clean anime TV-production style. The final result must resemble a polished frame from a modern high-quality seasonal anime series, focusing on elegant simplicity, strong shape language, and clean cel-shading rather than hyper-detailed rendering.",
 
   "meta": {
-    "intent": "Modern anime style conversion",
-    "priority": "Style fidelity + identity preservation",
-    "device_profile": "High-end anime production"
+    "intent": "Modern anime TV frame conversion",
+    "priority": "Identity preservation + clean anime simplification",
+    "device_profile": "High-end seasonal anime production"
   },
+
+  "priority_order": [
+    "preserve character identity",
+    "preserve pose and composition",
+    "clean anime lineart",
+    "simple cel-shading",
+    "anime TV-frame aesthetic",
+    "anatomy correction"
+  ],
 
   "input_handling": {
     "base_image": "MANDATORY",
     "rules": [
-      "Preserve character identity, pose, and intent",
-      "User instructions override the image when needed"
+      "Preserve original identity and visual intent",
+      "Maintain recognizable facial structure and hairstyle",
+      "Keep the original pose and framing",
+      "User instructions override image details when necessary"
     ]
   },
 
   "analysis_pipeline": {
     "step_1": "Extract identity, pose, outfit, and composition",
-    "step_2": "Apply user instructions with priority",
-    "step_3": "Rebuild using modern anime style + corrections + enhancements"
+    "step_2": "Simplify forms into anime-friendly readable shapes",
+    "step_3": "Rebuild using modern seasonal anime aesthetics",
+    "step_4": "Apply clean cel-shading and simplified rendering"
   },
 
   "style": {
     "lineart": {
       "rules": [
-        "clean, precise and uniform linework",
+        "clean and expressive anime lineart",
         "medium-thin line weight variation",
-        "smooth, consistent strokes",
-        "professional animation ink look"
+        "minimal internal detail lines",
+        "smooth and natural strokes",
+        "clean silhouette readability",
+        "avoid excessive sharpness"
       ]
     },
 
     "shading": {
       "rules": [
-        "clean cel-shading (crisp shadow edges)",
-        "2-step or 3-step shading layers",
-        "vibrant color contrast in shadows",
-        "no muddy blending",
-        "smooth skin shading with defined shadow blocks"
+        "clean cel-shading with large shadow shapes",
+        "2-step anime shading",
+        "minimal rendering complexity",
+        "flat anime-style lighting",
+        "simple and readable shadow mapping",
+        "avoid excessive gradients",
+        "avoid painterly rendering"
       ]
     },
 
     "face": {
       "rules": [
-        "expressive modern anime eyes",
-        "clear iris patterns and specular highlights",
-        "sharp eyelash definition",
-        "simplified but cute/cool nose and mouth",
-        "flat skin tones with clean shadow planes"
+        "modern anime facial proportions",
+        "expressive but simplified anime eyes",
+        "clean eyelashes and iris shapes",
+        "minimal nose and mouth detail",
+        "soft and readable facial planes",
+        "natural anime expression design"
       ]
     },
 
     "hair": {
       "rules": [
-        "stylized hair clumps with clear silhouettes",
-        "sharp highlights (halo effect)",
-        "cel-shaded depth with shadow layering"
+        "simple stylized hair masses",
+        "broad anime hair shapes",
+        "minimal strand rendering",
+        "clean silhouette definition",
+        "simple cel-shaded highlights"
       ]
     },
 
     "materials": {
       "rules": [
-        "clean, flat colors with specular highlights",
-        "stylized fabric and metal textures",
-        "no photorealism or heavy textures"
+        "flat clean anime colors",
+        "minimal texture detail",
+        "simple fabric rendering",
+        "avoid realistic material complexity"
       ]
     }
   },
 
+  "rendering_philosophy": {
+    "rules": [
+      "prioritize shape language over rendering complexity",
+      "visual simplicity with strong appeal",
+      "anime TV production aesthetic",
+      "focus on clean large forms",
+      "avoid over-detailing",
+      "use visual economy",
+      "let the drawing carry the image instead of rendering"
+    ]
+  },
+
   "color_lighting": {
     "rules": [
-      "vibrant and saturated palette",
-      "balanced contrast",
-      "directional lighting with clear shadow mapping",
-      "subtle bloom and glow for highlights"
+      "balanced anime color palette",
+      "clean directional lighting",
+      "soft ambient contrast",
+      "simple readable lighting structure",
+      "avoid dramatic cinematic effects",
+      "avoid excessive glow and bloom"
     ]
   },
 
   "quality_enhancement": {
     "rules": [
-      "high-definition digital animation look",
-      "extremely clean and sharp lines",
-      "refined facial features",
-      "enhanced character silhouette",
-      "clear outfit layering",
-      "remove visual noise"
+      "clean anime production quality",
+      "consistent anatomy",
+      "clear facial readability",
+      "strong silhouette clarity",
+      "remove visual noise",
+      "maintain natural anime simplicity"
     ]
   },
 
@@ -95,45 +129,52 @@
       "extra or missing fingers",
       "broken anatomy",
       "misaligned eyes",
-      "missing iris or pupil",
       "distorted face",
       "unnatural limbs"
     ],
+
     "requirements": [
       "hands must have 5 fingers",
       "eyes aligned and complete",
-      "standard anime proportions"
+      "natural anime proportions",
+      "clean neck and shoulder anatomy"
     ]
   },
 
   "rendering_rules": {
     "rules": [
-      "fully redraw image in modern anime style",
-      "ensure it looks like a frame from a high-budget anime",
-      "do not use painterly or 3D filters",
-      "maintain character identity",
-      "ensure strong readability and clean silhouette"
+      "fully redraw image in modern seasonal anime style",
+      "maintain anime TV-frame simplicity",
+      "avoid over-rendered illustration aesthetics",
+      "maintain clean readability at all sizes",
+      "preserve character identity and appeal",
+      "avoid promotional splash-art rendering"
     ]
   },
 
   "avoid": [
-    "soft painterly rendering",
-    "blurry shadow edges",
-    "heavy comic inking",
-    "rough sketch lines",
+    "hyper-detail",
+    "painterly rendering",
+    "soft blurry shading",
     "muddy colors",
+    "heavy compositing",
     "photorealism",
-    "unrefined 3D render look",
-    "western comic style",
-    "low detail anime",
-    "overly complex gradients"
+    "3D render look",
+    "gacha splash-art rendering",
+    "cinematic over-lighting",
+    "excessive gradients",
+    "overly detailed textures",
+    "visual clutter",
+    "western comic rendering",
+    "rough sketch lines"
   ],
 
   "internal_logic": [
-    "prioritize the 'classic but modern' anime look",
-    "focus on eyes and clean lineart",
-    "use professional cel-shading techniques",
-    "maintain high polish and animation-ready clarity"
+    "prioritize clean anime readability",
+    "focus on elegant simplicity",
+    "maintain a natural seasonal anime appearance",
+    "favor simplified rendering over detail density",
+    "preserve emotional clarity through face and silhouette"
   ],
 
   "output_rules": {
@@ -145,19 +186,24 @@
   },
 
   "negative_prompt": [
-    "blurry",
+    "hyper detailed",
     "painterly",
     "soft shading",
     "muddy colors",
     "rough lines",
-    "low resolution",
-    "distorted anatomy",
-    "extra fingers",
-    "missing fingers",
-    "asymmetrical eyes",
     "photorealistic",
-    "3D render style",
-    "western cartoon",
-    "sketched"
+    "3D render",
+    "gacha art",
+    "promotional illustration",
+    "splash art",
+    "heavy glow",
+    "excessive bloom",
+    "complex textures",
+    "over-rendered face",
+    "too many hair strands",
+    "cinematic compositing",
+    "extra fingers",
+    "distorted anatomy",
+    "western comic style"
   ]
-}
+}
