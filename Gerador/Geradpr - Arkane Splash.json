@@ -36,7 +36,7 @@
     "composition_system": {
         "rule": "Dynamic Asymmetry (Rule of Thirds)",
         "aspect_ratio": "9:16",
-        "layout": "Extended full-body, Hips fully visible, legs and feet fully visible, all body parts visible",
+        "layout": "Extended full-body, Hips fully visible, legs and feet fully and always visible, all body parts always visible",
         "camera_angle": "Eye-level or slight low-angle",
         "balance": "Narrative counterweight on opposite side of character"
     },
