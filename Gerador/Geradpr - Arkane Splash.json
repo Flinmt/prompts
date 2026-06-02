@@ -1,0 +1,287 @@
+{
+    "vibe_title_en": "AAA Narrative 2D Splash Art (Arkane Narrative Edition V7)",
+    "master_prompt": "A cinematic, ultra high-detail 2D narrative splash art illustration of {subject}, executed primarily in the visual language of Arkane Studios character promotional art, Dishonored character portraits, and painterly narrative concept art. Adhere strictly to a 60/30/10 color palette: {primary_color} (60%), {secondary_color} (30%), and {accent_color} (10%). Use dynamic asymmetrical composition (Rule of Thirds), positioning the character to one side to reveal narrative elements in the environment. Construct all anatomy through sculptural facial planes, value masses, visible painterly brushwork, and strong shape design. Character identity, facial architecture, and narrative presence must take priority over glamour, beauty standards, fashion-model aesthetics, decorative rendering, and visual excess. The face must function as the unquestionable focal center of the image. Detail density, contrast, edge sharpness, and rendering fidelity must progressively dissolve as distance from the face increases.",
+    "meta": {
+        "intent": "Narrative RPG splash art with Arkane Studios visual DNA",
+        "priorities": [
+            "Face",
+            "Identity",
+            "Narrative",
+            "Painterly readability",
+            "Visual hierarchy",
+            "Selective detail"
+        ],
+        "version": "7.0"
+    },
+    "color_scheme": {
+        "rule": "60/30/10",
+        "distribution": {
+            "primary_60": "Character mass and atmosphere",
+            "secondary_30": "Costume, environment, symbolic storytelling",
+            "accent_10": "Eyes, jewelry, magical effects, focal symbols"
+        },
+        "colors": {
+            "primary": "",
+            "secondary": "",
+            "accent": ""
+        }
+    },
+    "user_input_override": {
+        "priority": "MAXIMUM",
+        "instruction": "All user-defined traits must be fully integrated.",
+        "includes": [
+
+        ]
+    },
+    "composition_system": {
+        "rule": "Dynamic Asymmetry (Rule of Thirds)",
+        "aspect_ratio": "9:16",
+        "layout": "Extended full-body, Hips fully visible, legs and feet fully visible, all body parts visible",
+        "camera_angle": "Eye-level or slight low-angle",
+        "balance": "Narrative counterweight on opposite side of character"
+    },
+    "focal_hierarchy_system": {
+        "priority": "ABSOLUTE",
+        "detail_distribution": {
+            "face": "100%",
+            "eyes": "100%",
+            "neck_and_upper_torso": "90%",
+            "hands": "65%",
+            "important_storytelling_props": "60%",
+            "costume": "45%",
+            "lower_clothing": "30%",
+            "background_storytelling": "20%",
+            "environment": "10%"
+        },
+        "rules": [
+            "The face receives the overwhelming majority of rendering resources",
+            "The viewer's eye must immediately lock onto the face",
+            "No secondary element may compete with the face",
+            "Visual complexity must progressively decay as distance from the face increases",
+            "The image should feel painted outward from the face",
+            "Detail concentration must remain heavily centralized"
+        ]
+    },
+    "peripheral_abstraction_system": {
+        "priority": "ABSOLUTE",
+        "rules": [
+            "Detail density progressively dissolves away from the face",
+            "Peripheral anatomy may simplify into painterly forms",
+            "Visual suggestion is preferred over exhaustive description",
+            "Use larger brushstrokes outside focal regions",
+            "Lost-and-found edges increase with distance from the face",
+            "Peripheral forms should merge into larger value masses",
+            "Painterly abstraction is preferred over hyper-rendering",
+            "The viewer should perceive complete anatomy even when individual details are not fully rendered",
+            "Abstraction should appear intentional and artistic rather than blurry"
+        ]
+    },
+    "detail_sacrifice_hierarchy": {
+        "priority": "ABSOLUTE",
+        "order": [
+            "environment",
+            "background_characters",
+            "architecture",
+            "background_symbols",
+            "cape_extremities",
+            "lower_clothing",
+            "armor_ornaments",
+            "hair",
+            "props",
+            "hands",
+            "face"
+        ],
+        "rule": "Whenever image complexity increases, detail must be removed from lower-priority elements before reducing quality in higher-priority elements."
+    },
+    "background_storytelling": {
+        "type": "Narrative Symbolism",
+        "rules": [
+            "Suggest rather than describe",
+            "Imply rather than illustrate",
+            "Use silhouettes and value masses",
+            "Avoid highly rendered architecture",
+            "Avoid highly rendered secondary characters",
+            "Environment exists to support character identity",
+            "Background should feel painted rather than fully rendered",
+            "Narrative symbols should remain readable but simplified",
+            "Architecture, heraldry, banners, uniforms, and clothing should share a coherent cultural visual language"
+        ]
+    },
+    "rendering_2d_standard": {
+        "style": "Arkane Studios Narrative Character Concept Art",
+        "lineart": "Absent or nearly absent",
+        "brushwork": "Visible structural brushwork throughout the image",
+        "facial_rendering": "Sculptural facial construction using strong anatomical planes",
+        "shading": "Large value masses before small details",
+        "edge_control": {
+            "face": "sharpest",
+            "eyes": "sharpest",
+            "upper_torso": "controlled",
+            "hands": "moderately defined",
+            "costume": "softened",
+            "background": "lost-and-found"
+        },
+        "hair_rendering": {
+            "approach": "large masses first",
+            "individual_strands": "minimal",
+            "priority": "significantly lower than face"
+        },
+        "hand_rendering": {
+            "priority": "MEDIUM",
+            "rules": [
+                "Hands must remain readable",
+                "Hands should not compete with the face",
+                "Painterly suggestion is preferred over excessive finger detail",
+                "Finger anatomy may be simplified through brushwork",
+                "Avoid hyper-rendered fingers",
+                "Treat hands as secondary storytelling elements"
+            ]
+        },
+        "surface_quality": "Painterly concept-art finish",
+        "peripheral_treatment": [
+            "larger brushstrokes",
+            "reduced detail density",
+            "merged value shapes",
+            "lost edges",
+            "painterly simplification",
+            "controlled abstraction"
+        ],
+        "prohibited": [
+            "League of Legends rendering",
+            "Runeterra rendering",
+            "Genshin rendering",
+            "Fashion model aesthetics",
+            "Instagram beauty standards",
+            "Plastic skin",
+            "Beauty filter appearance",
+            "Photorealism",
+            "CGI",
+            "3D rendering",
+            "Hyper-detailed environments",
+            "Over-rendered armor",
+            "Over-rendered hair",
+            "Photographic blur",
+            "Depth of field",
+            "Lens effects",
+            "Bokeh",
+            "MMORPG armor design",
+            "Generic fantasy adventurer clothing",
+            "Modern fantasy fashion",
+            "Runway fashion aesthetics",
+            "Oversexualized fantasy clothing",
+            "Generic medieval peasant clothing unless explicitly requested",
+            "Generic D&D-inspired armor design"
+        ]
+    },
+    "facial_identity_enforcement": {
+        "priority": "ABSOLUTE",
+        "rules": [
+            "Identity over attractiveness",
+            "Character over beauty",
+            "Facial architecture over smoothness",
+            "Visible cheekbones",
+            "Visible orbital structure",
+            "Visible nasal bridge",
+            "Visible forehead planes",
+            "Visible jaw planes",
+            "Strong facial construction through value design",
+            "Avoid generic fantasy hero faces",
+            "Avoid same-face syndrome",
+            "Expression must reveal personality and history",
+            "Male and female faces must receive equal structural diversity",
+            "Faces should be memorable through shape language rather than attractiveness",
+            "Bone structure should reflect the individual character rather than idealized beauty standards"
+        ]
+    },
+    "male_face_diversity_system": {
+        "priority": "ABSOLUTE",
+        "goal": "Prevent default AI-generated heroic male faces and increase narrative facial variety among male characters.",
+        "rules": [
+            "Avoid default heroic male face",
+            "Avoid square-jaw bias",
+            "Avoid chad facial structure",
+            "Avoid male-model attractiveness",
+            "Avoid generic fantasy protagonist faces",
+            "Avoid same-face syndrome among male characters",
+            "Male characters may have narrow faces",
+            "Male characters may have soft jawlines",
+            "Male characters may have long faces",
+            "Male characters may have round faces",
+            "Male characters may have gaunt faces",
+            "Male characters may have aged faces",
+            "Male characters may have asymmetrical faces",
+            "Male characters may have delicate facial structures",
+            "Male characters may have scholarly facial structures",
+            "Male characters may have aristocratic facial structures",
+            "Male characters may have weary facial structures",
+            "Male characters may have unconventional facial structures",
+            "Masculinity should not automatically equal jaw size",
+            "Masculinity should not automatically equal physical dominance",
+            "Facial architecture must emerge from character identity rather than gender archetype",
+            "Profession, social class, history, lifestyle, age, and personality must visibly influence facial structure"
+        ],
+        "character_readability": {
+            "priority": "HIGH",
+            "rules": [
+                "Profession must be visually recognizable",
+                "Social status must be visually recognizable",
+                "Faction affiliation should influence clothing design",
+                "Silhouette should communicate character role before facial details are noticed",
+                "Costume design is part of character identity"
+            ]
+        }
+    },
+    "anatomy_face_control": {
+        "priority": "CRITICAL",
+        "face_rules": [
+            "Strictly follow user-defined face shape",
+            "Preserve individuality",
+            "No beauty-standard correction",
+            "Do not automatically masculinize male faces through jaw enlargement",
+            "Do not automatically feminize female faces through facial softening",
+            "Face shape takes priority over gender stereotypes",
+            "Facial structure must support character identity and profession"
+        ],
+        "hand_rules": [
+            "Readable anatomy",
+            "Believable anatomy",
+            "Correct overall hand structure",
+            "Natural wrist alignment",
+            "Painterly simplification is allowed",
+            "Visual plausibility is more important than microscopic finger detail"
+        ],
+        "body_rules": [
+            "Correct humanoid anatomy",
+            "Strong silhouette",
+            "Natural posture",
+            "Believable weight distribution"
+        ]
+    },
+    "arkane_dna_enforcement": {
+        "priority": "ABSOLUTE",
+        "rules": [
+            "Character design takes priority over rendering polish",
+            "Planes before gradients",
+            "Value masses before texture",
+            "Identity before attractiveness",
+            "Narrative before decoration",
+            "Painterly readability before visual complexity",
+            "Concept art first, splash art second",
+            "Character archetype must influence facial construction",
+            "Different professions should generate visibly different facial structures",
+            "Facial variety is more important than attractiveness",
+            "Memorable silhouettes are preferred over idealized beauty",
+            "Identity must remain recognizable even without hair, clothing, or accessories",
+            "Costume design should follow the visual language of Dishonored when user clothing details are limited",
+            "Favor industrial-aristocratic fantasy fashion over generic fantasy clothing",
+            "Favor layered garments, structured collars, tailored coats, fitted jackets, corsetry, military influences, embroidered panels, decorative fasteners, belts, straps, and narrative accessories",
+            "Clothing should communicate profession, social status, faction, and personal history",
+            "Costumes should feel grounded in a lived-in industrial fantasy society",
+            "Visual storytelling through costume is mandatory",
+            "A character's occupation should be recognizable through clothing design alone"
+        ]
+    },
+    "fail_safe": {
+        "rule": "Protect face quality first. Protect facial identity second. Protect upper torso third. Progressively simplify hands, costume extremities, architecture, environment, and peripheral elements before sacrificing focal quality."
+    }
+}

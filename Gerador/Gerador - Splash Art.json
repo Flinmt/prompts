@@ -1,26 +1,18 @@
 {
     "vibe_title_en": "AAA Narrative 2D Splash Art (Definitive Edition)",
-    "master_prompt": "A cinematic, ultra high-detail 2D digital stylized splash art illustration of {subject}, featuring a modern hybrid aesthetic (masterful mix of cartoon aesthetics and semi-realism). Adhere strictly to a 60/30/10 color palette: {primary_color} (60%), {secondary_color} (30%), and {accent_color} (10%). Maintain strong character-background separation: even when the same palette color appears in both, vary value, saturation, temperature, or rim lighting so the character silhouette never blends into the background. Use dynamic asymmetrical composition (Rule of Thirds), choosing the character placement individually for each subject based on their silhouette, pose direction, gaze, weapon, instrument, magic flow, and narrative background needs, instead of defaulting to a fixed side. Capture a decisive narrative moment with official game key art energy, using heroic gesture, cinematic diagonals, triangular composition, and strong value contrast to guide the eye toward the face, weapon, or main power source. The character pose must be iconic, readable, and anatomy-safe, with a strong silhouette, one clear body action line, subtle shoulder-hip counterpose, and clearly visible natural hands. Avoid extreme foreshortening, tangled limbs, hidden hands, crossed arms that obscure anatomy, or overly complex perspective. Forms must be defined by light, value, and stylized color planes, with soft or no visible lineart. The background must stay simplified and anatomy-safe, using large readable symbolic silhouettes (like banners, iconic architecture, emblems, distant ruins, abstract crowds, or monumental shapes) that suggest epic scale without adding small details or visual clutter. Use clear foreground, character layer, and background layer separation, but keep all background elements subordinate to the character. Absolute focus on anatomical integrity, correct 5-finger hand structure, and strictly following the user-defined facial shape. Framing from head to mid-thigh (below the waistline).",
+    "master_prompt": "A cinematic, ultra high-detail 2D digital stylized splash art illustration of {subject}, featuring a modern hybrid aesthetic (masterful mix of cartoon aesthetics and semi-realism). Adhere strictly to a 60/30/10 color palette: {primary_color} (60%), {secondary_color} (30%), and {accent_color} (10%). Use dynamic asymmetrical composition (Rule of Thirds), positioning the character to one side (left or right) to allow the background to reveal their narrative. Forms must be defined by light, value, and stylized color planes, with soft or no visible lineart. The background must feature simplified, symbolic silhouettes (like banners, iconic architecture, or emblems) that reflect the character's lore. Absolute focus on anatomical integrity, correct 5-finger hand structure, and strictly following the user-defined facial shape. Framing from head to mid-thigh (below the waistline).",
     "meta": {
         "intent": "Premium character-focused storytelling splash art",
-        "priorities": "Narrative integration, splash art scale, simplified background control, asymmetrical balance, anatomical perfection, 2D hand-drawn look",
+        "priorities": "Narrative integration, asymmetrical balance, anatomical perfection, 2D hand-drawn look",
         "version": "1.0 - Definitive"
     },
     "color_scheme": {
-        "rule": "60/30/10 with character-background separation",
+        "rule": "60/30/10",
         "distribution": {
-            "primary_60": "Dominant overall color family, but separated by value, saturation, or temperature between character and background",
-            "secondary_30": "Secondary attire parts, equipment, shadow masses, and narrative background silhouettes",
+            "primary_60": "Dominant clothing/armor and overall environmental atmosphere",
+            "secondary_30": "Secondary attire parts, equipment, and narrative background silhouettes",
             "accent_10": "Jewelry, magical essence, eyes, and fine metallic/glowing details"
         },
-        "separation_rules": [
-            "Never place the same color value on the character and background in adjacent areas",
-            "If the primary color is light, keep the background darker, warmer, cooler, or less saturated behind the character",
-            "If the primary color is dark, use lighter rim light, secondary shapes, or accent contrast around the silhouette",
-            "Preserve strong character readability through value contrast first, color harmony second",
-            "Use the primary color differently across layers: clothing, atmosphere, and background must vary in brightness and saturation",
-            "The face, hair, hands, and torso silhouette must always stand out clearly from the background"
-        ],
         "colors": {
             "primary": "",
             "secondary": "",
@@ -31,42 +23,25 @@
         "priority": "MAXIMUM",
         "instruction": "All user-defined traits must be fully integrated.",
         "includes": [
-            ""
+
         ]
     },
     "composition_system": {
         "rule": "Dynamic Asymmetry (Rule of Thirds)",
         "aspect_ratio": "9:16",
-        "layout": "Extended half-body; character placement must vary naturally per subject; hips fully visible; no legs/knees",
-        "placement_logic": "Do not always place the character on the same side. Choose left third, right third, or near-center asymmetry based on the character's pose direction, gaze, silhouette, prop/weapon/instrument, magic flow, and where the narrative background needs space.",
-        "balance": "Balance character weight with large simplified symbolic background elements on the opposite side",
+        "layout": "Extended half-body; Character positioned on right third of the frame; Hips fully visible; No legs/knees",
+        "balance": "Balance character weight with symbolic background elements on the opposite side",
         "camera_angle": "Eye-level dramatic or slight low-angle for status and impact",
-        "depth_control": "Clear foreground, character, and background separation; background must support scale without competing for detail"
-    },
-    "pose_control": {
-        "priority": "HIGH",
-        "goal": "Create a powerful splash-art pose that feels intentional, iconic, and readable without compromising anatomy.",
-        "rules": [
-            "Use a clear heroic or action-ready pose with strong silhouette readability",
-            "Pose must communicate the character's role, personality, and emotional state",
-            "Favor stable, anatomically safe poses over extreme foreshortening",
-            "Use one dominant action line through the body to create movement and cinematic flow",
-            "Avoid tangled limbs, crossed arms that hide hands, extreme perspective, or overly complex hand poses",
-            "Hands must remain clearly visible, naturally posed, and anatomically correct",
-            "Shoulders, torso, hips, and head should have a subtle opposing angle for dynamic energy",
-            "Clothing, hair, cape, weapon, or magical effects may create motion around the pose"
-        ]
+        "depth_control": "Clear separation between character (with outline) and narrative background layer"
     },
     "background_storytelling": {
         "type": "Stylized Narrative Silhouettes",
         "rules": [
-            "Incorporate background elements that represent the character's lore",
+            "Incorporate iconic shapes that represent the character's lore",
             "Keep elements simplified and stylized to maintain AI focus on character anatomy",
-            "Suggest epic scale through big simple shapes, silhouettes, and atmospheric layers instead of detailed scenery",
-            "Use cinematic diagonals, triangular shapes, or large framing forms to create splash art impact",
             "Background colors must be derived from the Primary (60%) and Secondary (30%) palette",
             "Use symbolic elements to tell a story without adding technical visual clutter",
-            "Background must remain sharp, clean, and subordinate, serving as a supporting atmospheric layer"
+            "Background must remain sharp and clean, serving as a supporting atmospheric layer"
         ]
     },
     "rendering_2d_standard": {
