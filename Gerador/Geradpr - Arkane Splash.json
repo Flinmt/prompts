@@ -28,9 +28,9 @@
     },
     "user_input_override": {
         "priority": "MAXIMUM",
-        "instruction": "All user-defined traits must be fully integrated.",
+        "instruction": "User-defined traits always override stylistic defaults.",
         "includes": [
-
+            ""
         ]
     },
     "composition_system": {
@@ -103,8 +103,7 @@
             "Avoid highly rendered secondary characters",
             "Environment exists to support character identity",
             "Background should feel painted rather than fully rendered",
-            "Narrative symbols should remain readable but simplified",
-            "Architecture, heraldry, banners, uniforms, and clothing should share a coherent cultural visual language"
+            "Narrative symbols should remain readable but simplified"
         ]
     },
     "rendering_2d_standard": {
@@ -163,14 +162,7 @@
             "Photographic blur",
             "Depth of field",
             "Lens effects",
-            "Bokeh",
-            "MMORPG armor design",
-            "Generic fantasy adventurer clothing",
-            "Modern fantasy fashion",
-            "Runway fashion aesthetics",
-            "Oversexualized fantasy clothing",
-            "Generic medieval peasant clothing unless explicitly requested",
-            "Generic D&D-inspired armor design"
+            "Bokeh"
         ]
     },
     "facial_identity_enforcement": {
@@ -187,60 +179,15 @@
             "Strong facial construction through value design",
             "Avoid generic fantasy hero faces",
             "Avoid same-face syndrome",
-            "Expression must reveal personality and history",
-            "Male and female faces must receive equal structural diversity",
-            "Faces should be memorable through shape language rather than attractiveness",
-            "Bone structure should reflect the individual character rather than idealized beauty standards"
+            "Expression must reveal personality and history"
         ]
-    },
-    "male_face_diversity_system": {
-        "priority": "ABSOLUTE",
-        "goal": "Prevent default AI-generated heroic male faces and increase narrative facial variety among male characters.",
-        "rules": [
-            "Avoid default heroic male face",
-            "Avoid square-jaw bias",
-            "Avoid chad facial structure",
-            "Avoid male-model attractiveness",
-            "Avoid generic fantasy protagonist faces",
-            "Avoid same-face syndrome among male characters",
-            "Male characters may have narrow faces",
-            "Male characters may have soft jawlines",
-            "Male characters may have long faces",
-            "Male characters may have round faces",
-            "Male characters may have gaunt faces",
-            "Male characters may have aged faces",
-            "Male characters may have asymmetrical faces",
-            "Male characters may have delicate facial structures",
-            "Male characters may have scholarly facial structures",
-            "Male characters may have aristocratic facial structures",
-            "Male characters may have weary facial structures",
-            "Male characters may have unconventional facial structures",
-            "Masculinity should not automatically equal jaw size",
-            "Masculinity should not automatically equal physical dominance",
-            "Facial architecture must emerge from character identity rather than gender archetype",
-            "Profession, social class, history, lifestyle, age, and personality must visibly influence facial structure"
-        ],
-        "character_readability": {
-            "priority": "HIGH",
-            "rules": [
-                "Profession must be visually recognizable",
-                "Social status must be visually recognizable",
-                "Faction affiliation should influence clothing design",
-                "Silhouette should communicate character role before facial details are noticed",
-                "Costume design is part of character identity"
-            ]
-        }
     },
     "anatomy_face_control": {
         "priority": "CRITICAL",
         "face_rules": [
             "Strictly follow user-defined face shape",
             "Preserve individuality",
-            "No beauty-standard correction",
-            "Do not automatically masculinize male faces through jaw enlargement",
-            "Do not automatically feminize female faces through facial softening",
-            "Face shape takes priority over gender stereotypes",
-            "Facial structure must support character identity and profession"
+            "No beauty-standard correction"
         ],
         "hand_rules": [
             "Readable anatomy",
@@ -266,19 +213,7 @@
             "Identity before attractiveness",
             "Narrative before decoration",
             "Painterly readability before visual complexity",
-            "Concept art first, splash art second",
-            "Character archetype must influence facial construction",
-            "Different professions should generate visibly different facial structures",
-            "Facial variety is more important than attractiveness",
-            "Memorable silhouettes are preferred over idealized beauty",
-            "Identity must remain recognizable even without hair, clothing, or accessories",
-            "Costume design should follow the visual language of Dishonored when user clothing details are limited",
-            "Favor industrial-aristocratic fantasy fashion over generic fantasy clothing",
-            "Favor layered garments, structured collars, tailored coats, fitted jackets, corsetry, military influences, embroidered panels, decorative fasteners, belts, straps, and narrative accessories",
-            "Clothing should communicate profession, social status, faction, and personal history",
-            "Costumes should feel grounded in a lived-in industrial fantasy society",
-            "Visual storytelling through costume is mandatory",
-            "A character's occupation should be recognizable through clothing design alone"
+            "Concept art first, splash art second"
         ]
     },
     "fail_safe": {
