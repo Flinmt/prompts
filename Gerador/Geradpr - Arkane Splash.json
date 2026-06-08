@@ -30,13 +30,13 @@
         "priority": "MAXIMUM",
         "instruction": "User-defined traits always override stylistic defaults.",
         "includes": [
-            ""
+            
         ]
     },
     "composition_system": {
         "rule": "Dynamic Asymmetry (Rule of Thirds)",
         "aspect_ratio": "9:16",
-        "layout": "Extended full-body, Hips fully visible, legs and feet fully and always visible, all body parts always visible",
+        "layout": "Extended half-body; Hips fully visible; No legs/knees",
         "camera_angle": "Eye-level or slight low-angle",
         "balance": "Narrative counterweight on opposite side of character"
     },
@@ -182,6 +182,38 @@
             "Expression must reveal personality and history"
         ]
     },
+    "character_performance_system": {
+        "priority": "ABSOLUTE",
+        "rules": [
+            "Every character must have a unique pose",
+            "Every character must have a unique facial expression",
+            "Body language must reflect personality",
+            "Body language must reflect profession",
+            "Body language must reflect social status",
+            "Body language must reflect emotional state",
+            "Avoid default fantasy character poses",
+            "Avoid repeated hand placements",
+            "Avoid repeated portrait compositions",
+            "Avoid same-pose syndrome",
+            "Avoid generic confident hero poses",
+            "Character posture should communicate narrative information before clothing details are noticed",
+            "Pose should feel captured from a larger story rather than arranged for a photoshoot",
+            "The character should appear to be doing something rather than posing"
+        ]
+    },
+    "expression_variation_system": {
+        "priority": "HIGH",
+        "rules": [
+            "Expressions should emerge from character identity",
+            "Avoid default attractive expressions",
+            "Avoid default smirks",
+            "Avoid default seductive expressions",
+            "Avoid default heroic expressions",
+            "Emotional nuance is preferred over dramatic exaggeration",
+            "Expressions should feel authentic and situational",
+            "The same expression should not appear repeatedly across different characters"
+        ]
+    },
     "anatomy_face_control": {
         "priority": "CRITICAL",
         "face_rules": [
@@ -213,7 +245,10 @@
             "Identity before attractiveness",
             "Narrative before decoration",
             "Painterly readability before visual complexity",
-            "Concept art first, splash art second"
+            "Concept art first, splash art second",
+            "Characters should feel observed rather than posed",
+            "Portraits should resemble narrative moments rather than promotional photoshoots",
+            "Personality must influence posture, gesture, and expression"
         ]
     },
     "fail_safe": {
