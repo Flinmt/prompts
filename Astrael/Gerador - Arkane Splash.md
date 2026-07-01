@@ -47,7 +47,41 @@ User-defined traits always override stylistic defaults.
 
 ---
 
-(place here)
+### Appearance
+
+- Young noblewoman around 24 years old.
+- Slender silhouette defined by a narrow waist, pronounced hips and graceful posture.
+- Pale skin framed by long, perfectly straight black hair falling to the middle of her back.
+- Sharp face with high cheekbones, striking scarlet eyes and carefully applied dark makeup.
+- Calm, attentive expression, studying the unexpected visitor with composed confidence.
+
+### Clothing
+
+- Formal black aristocratic attire built as a single tailored upper garment paired with high-waisted fitted trousers, creating a clean, elegant silhouette.
+- Structured collar opening into a pronounced keyhole neckline while the wide off-shoulder construction leaves her shoulders and collarbones exposed.
+- Open back revealing the upper back to the shoulder blades without breaking the garment's formal appearance.
+- Long fitted sleeves, flat leather ankle boots, restrained silver jewelry set with deep red gemstones, family rings and a single heraldic brooch.
+
+### Pose
+
+- Standing beside her study desk, interrupted in the middle of her research.
+- One hand quietly closes an ancient grimoire while the other rests on the desk.
+- Her body remains oriented toward her work as only her head turns over one shoulder to acknowledge the newly arrived guest.
+- Relaxed posture suggesting complete control of the conversation before a single word is spoken.
+
+### Environment
+
+- A spacious private library occupying one of the upper floors of her family's Gothic manor.
+- The room is defined by towering bookshelves, dark carved wood, stone architecture and tall Gothic windows enclosed by heavy curtains.
+- At its center, a large study desk gathers books, scholarly notes, brass instruments and carefully organized hemomantic research materials.
+- A stone fireplace bearing the family's heraldic crest anchors the far side of the room, reinforcing the lineage's long academic tradition.
+
+### Narrative Cues
+
+- The heraldic emblem—a stylized blood drop encircled by thorned branches—appears consistently on her rings, brooch and above the fireplace.
+- Open anatomical manuscripts and blood research notes suggest generations of disciplined hemomantic scholarship.
+- Every object is deliberately arranged, making the room feel less like an occult laboratory and more like the private study of an ancient noble family whose blood magic has become an established academic tradition.
+- Her attire deliberately reveals selected areas of skin, using restrained sensuality as another expression of confidence, status and social control.
 
 ---
 
