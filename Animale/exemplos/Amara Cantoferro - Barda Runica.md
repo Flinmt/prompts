@@ -18,7 +18,7 @@ Define the character below. The rendering system will translate these traits int
 
 * **Lighting & Focal Glow:** Salão mergulhado em luz ambiente vinho e violeta. A runa do alaúde emite luz ciano localizada que ilumina os dedos, a parte inferior do rosto, o brinco e algumas tranças, produzindo reflexos magenta nas sombras próximas. Nenhum contorno luminoso envolve a personagem por inteiro.
 
-* **Environment & Narrative Symbols:** Salão escuro de uma cidade mercantil durante uma apresentação, com uma grande cortina arqueada como forma dominante, um brasão parcialmente oculto e silhuetas abstratas de público como símbolos secundários. Arquitetura e plateia se dissolvem em massas vinho e azul-negro.
+* **Environment & Compositional Backdrop:** Salão escuro de uma cidade mercantil durante uma apresentação. Uma cortina arqueada vinho quase negro forma a grande massa de contraponto atrás do alaúde e conduz sua curva de volta ao rosto, deixando uma área calma junto aos olhos. Um único brasão mercantil parcialmente oculto funciona como símbolo narrativo. Primeiro plano sugerido pela borda do palco, plano intermediário pela cortina e plano distante por poucas silhuetas geométricas de público. O brilho ciano das runas toca a borda da cortina e integra figura e cenário.
 
 * **Color Palette:** Vinho quase negro como primária 60%, violeta profundo e cinza-creme como secundária 30%, ciano luminoso como acento 10% aplicado à runa do alaúde, aos olhos, às mãos e à fita sonora.
 
@@ -222,7 +222,7 @@ Avoid:
 
 Do not default every character to the same side.
 
-Balance the character with one or two large simplified background shapes on the opposite side.
+Balance the character with one dominant designed background countershape placed according to the pose, gaze, and action line.
 
 Use diagonals, triangular structures, cape flow, hair movement, fabric, magic, or symbolic forms to lead the eye back to the face.
 
@@ -463,15 +463,16 @@ Avoid particle overload, multiple simultaneous powers, giant spell circles, broa
 
 ## Background Storytelling
 
-Use soft, atmospheric anime fantasy narrative silhouettes.
+Use a graphic, semi-painterly anime fantasy environment designed as part of the character composition rather than as separate scenery.
 
 Build the background from:
 
-* one dominant shape;
-* no more than two symbolic lore elements;
-* broad mist, cloud, shadow, light, architecture, or landscape masses;
+* one dominant structural shape acting as a countershape to the character silhouette;
+* one secondary symbolic lore element;
+* two or three clearly separated depth planes;
+* broad architecture, natural form, shadow, cloud, or shaped-light masses;
 * colors derived from the primary and secondary palette;
-* controlled accent highlights.
+* controlled accent highlights and restrained spill from the focal light.
 
 Possible elements include:
 
@@ -486,9 +487,13 @@ Possible elements include:
 * symbolic weapons or instruments;
 * simplified celestial shapes.
 
-Use big shapes, value shifts, and chromatic atmosphere to suggest fantasy scale.
+Use the dominant shape to frame the face, oppose or continue the principal action line, and balance the visual weight of the pose.
 
-Keep the background softly simplified, partially dissolved, and substantially lower in edge contrast than the face, hands, and focal source.
+Use big shapes, overlaps, value shifts, and chromatic atmosphere to suggest fantasy scale without relying on generic blur or fog.
+
+Keep the plane immediately behind the face visually calm but intentionally shaped. Give the dominant structure selective medium edges, soften the secondary plane, and dissolve only the most distant plane. All background edges must remain lower in contrast than the face, hands, and focal source.
+
+Let the ambient light establish the environment, then allow the localized focal light to tint or illuminate one nearby background surface so character and setting share the same light event.
 
 Avoid sharp lines, symbols, props, or high-contrast shapes directly behind:
 
@@ -499,7 +504,7 @@ Avoid sharp lines, symbols, props, or high-contrast shapes directly behind:
 * waist;
 * finger silhouettes.
 
-The background must support lore and mood without competing with the character or becoming generic blurred fantasy scenery.
+The background must complete the silhouette, reinforce the gesture, support lore and mood, and feel painted in the same visual language as the character without competing with the focal hierarchy.
 
 ---
 

@@ -18,7 +18,7 @@ Define the character below. The rendering system will translate these traits int
 
 * **Lighting & Focal Glow:** Luz ambiente fria e profunda vinda do mar ao entardecer. A fita de água emite um brilho coral-rosado concentrado, criando underlight cromático nos dedos, palmas, queixo e bochechas, além de reflexos violetas e turquesa nas mechas mais próximas. O fundo não possui outro brilho competitivo.
 
-* **Environment & Narrative Symbols:** Varanda de um farol sobre o mar ao anoitecer, com a janela circular como forma dominante, uma vela distante e a silhueta de ruínas submersas como símbolos secundários. Oceano e nuvens aparecem como massas suaves em azul-petróleo.
+* **Environment & Compositional Backdrop:** Varanda de um farol sobre o mar ao anoitecer. A grande janela circular azul-negra atua como contraponto ao fluxo da fita de água e enquadra rosto e cabelo sem criar tangências. Uma única vela distante funciona como símbolo narrativo. Parapeito no primeiro plano, moldura da janela no plano intermediário e horizonte marinho no plano distante estabelecem profundidade gráfica. O brilho coral-rosado da água colore uma seção da moldura e conecta a magia ao ambiente.
 
 * **Color Palette:** Azul-petróleo profundo como primária 60%, azul-negro e cinza-violeta como secundária 30%, coral-rosado luminoso como acento 10% aplicado aos olhos, pingente e fita de água.
 
@@ -222,7 +222,7 @@ Avoid:
 
 Do not default every character to the same side.
 
-Balance the character with one or two large simplified background shapes on the opposite side.
+Balance the character with one dominant designed background countershape placed according to the pose, gaze, and action line.
 
 Use diagonals, triangular structures, cape flow, hair movement, fabric, magic, or symbolic forms to lead the eye back to the face.
 
@@ -463,15 +463,16 @@ Avoid particle overload, multiple simultaneous powers, giant spell circles, broa
 
 ## Background Storytelling
 
-Use soft, atmospheric anime fantasy narrative silhouettes.
+Use a graphic, semi-painterly anime fantasy environment designed as part of the character composition rather than as separate scenery.
 
 Build the background from:
 
-* one dominant shape;
-* no more than two symbolic lore elements;
-* broad mist, cloud, shadow, light, architecture, or landscape masses;
+* one dominant structural shape acting as a countershape to the character silhouette;
+* one secondary symbolic lore element;
+* two or three clearly separated depth planes;
+* broad architecture, natural form, shadow, cloud, or shaped-light masses;
 * colors derived from the primary and secondary palette;
-* controlled accent highlights.
+* controlled accent highlights and restrained spill from the focal light.
 
 Possible elements include:
 
@@ -486,9 +487,13 @@ Possible elements include:
 * symbolic weapons or instruments;
 * simplified celestial shapes.
 
-Use big shapes, value shifts, and chromatic atmosphere to suggest fantasy scale.
+Use the dominant shape to frame the face, oppose or continue the principal action line, and balance the visual weight of the pose.
 
-Keep the background softly simplified, partially dissolved, and substantially lower in edge contrast than the face, hands, and focal source.
+Use big shapes, overlaps, value shifts, and chromatic atmosphere to suggest fantasy scale without relying on generic blur or fog.
+
+Keep the plane immediately behind the face visually calm but intentionally shaped. Give the dominant structure selective medium edges, soften the secondary plane, and dissolve only the most distant plane. All background edges must remain lower in contrast than the face, hands, and focal source.
+
+Let the ambient light establish the environment, then allow the localized focal light to tint or illuminate one nearby background surface so character and setting share the same light event.
 
 Avoid sharp lines, symbols, props, or high-contrast shapes directly behind:
 
@@ -499,7 +504,7 @@ Avoid sharp lines, symbols, props, or high-contrast shapes directly behind:
 * waist;
 * finger silhouettes.
 
-The background must support lore and mood without competing with the character or becoming generic blurred fantasy scenery.
+The background must complete the silhouette, reinforce the gesture, support lore and mood, and feel painted in the same visual language as the character without competing with the focal hierarchy.
 
 ---
 

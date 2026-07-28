@@ -18,7 +18,7 @@ Define the character below. The rendering system will translate these traits int
 
 * **Lighting & Focal Glow:** [One principal ambient light and one localized emissive or shaped light source; describe direction, color, intensity, and how it affects the face, eyes, hands, hair, outfit, and power source.]
 
-* **Environment & Narrative Symbols:** [Simplified location, one dominant background shape, and no more than two symbolic lore elements. Keep lighting decisions in the dedicated field above.]
+* **Environment & Compositional Backdrop:** [Simplified location, one dominant designed shape acting as a countershape to the pose, one secondary lore symbol, two or three clear depth planes, and how the environment frames the face, follows the gesture, and receives the ambient and focal light.]
 
 * **Color Palette:** [Primary color 60%, secondary color 30%, accent color 10%, including how the accent supports the eyes, power, equipment, or focal highlight.]
 
@@ -222,7 +222,7 @@ Avoid:
 
 Do not default every character to the same side.
 
-Balance the character with one or two large simplified background shapes on the opposite side.
+Balance the character with one dominant designed background countershape placed according to the pose, gaze, and action line.
 
 Use diagonals, triangular structures, cape flow, hair movement, fabric, magic, or symbolic forms to lead the eye back to the face.
 
@@ -463,15 +463,16 @@ Avoid particle overload, multiple simultaneous powers, giant spell circles, broa
 
 ## Background Storytelling
 
-Use soft, atmospheric anime fantasy narrative silhouettes.
+Use a graphic, semi-painterly anime fantasy environment designed as part of the character composition rather than as separate scenery.
 
 Build the background from:
 
-* one dominant shape;
-* no more than two symbolic lore elements;
-* broad mist, cloud, shadow, light, architecture, or landscape masses;
+* one dominant structural shape acting as a countershape to the character silhouette;
+* one secondary symbolic lore element;
+* two or three clearly separated depth planes;
+* broad architecture, natural form, shadow, cloud, or shaped-light masses;
 * colors derived from the primary and secondary palette;
-* controlled accent highlights.
+* controlled accent highlights and restrained spill from the focal light.
 
 Possible elements include:
 
@@ -486,9 +487,13 @@ Possible elements include:
 * symbolic weapons or instruments;
 * simplified celestial shapes.
 
-Use big shapes, value shifts, and chromatic atmosphere to suggest fantasy scale.
+Use the dominant shape to frame the face, oppose or continue the principal action line, and balance the visual weight of the pose.
 
-Keep the background softly simplified, partially dissolved, and substantially lower in edge contrast than the face, hands, and focal source.
+Use big shapes, overlaps, value shifts, and chromatic atmosphere to suggest fantasy scale without relying on generic blur or fog.
+
+Keep the plane immediately behind the face visually calm but intentionally shaped. Give the dominant structure selective medium edges, soften the secondary plane, and dissolve only the most distant plane. All background edges must remain lower in contrast than the face, hands, and focal source.
+
+Let the ambient light establish the environment, then allow the localized focal light to tint or illuminate one nearby background surface so character and setting share the same light event.
 
 Avoid sharp lines, symbols, props, or high-contrast shapes directly behind:
 
@@ -499,7 +504,7 @@ Avoid sharp lines, symbols, props, or high-contrast shapes directly behind:
 * waist;
 * finger silhouettes.
 
-The background must support lore and mood without competing with the character or becoming generic blurred fantasy scenery.
+The background must complete the silhouette, reinforce the gesture, support lore and mood, and feel painted in the same visual language as the character without competing with the focal hierarchy.
 
 ---
 
