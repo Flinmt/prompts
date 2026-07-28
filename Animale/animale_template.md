@@ -212,7 +212,8 @@ Avoid:
 
 * **Rule:** Dynamic anime RPG key-art asymmetry.
 * **Aspect Ratio:** Vertical 9:16.
-* **Framing:** Extended half-body from the top of the head to mid-thigh, clearly below the waistline. Hips must remain fully visible; knees and lower legs remain outside the frame.
+* **Framing:** Tight extended upper-body composition from the top of the head to just below the waist or across the upper hips. Keep both focal hands and the principal weapon, instrument, artifact, or power source fully visible. Expand toward the upper thighs only when required to preserve the action or prop.
+* **Character Scale:** The character generally occupies 88–95% of the image height, while leaving enough breathing room for hair, hands, equipment, and focal glow.
 * **Placement:** Choose left third, right third, or near-center asymmetry according to pose direction, gaze, silhouette, weapon, instrument, magic flow, and background needs.
 * **Camera:** Dramatic eye level or slight low angle without extreme perspective distortion.
 * **Focal Hierarchy:** Face and eyes first; hands, weapon, instrument, or power source second; costume motifs third; background last.
@@ -232,7 +233,8 @@ Avoid:
 * complex lens distortion;
 * cropped head or hands;
 * hidden hips;
-* framing above the waist;
+* framing ending above the waist;
+* unnecessary pullback to mid-thigh when the pose and prop already fit near the upper hips;
 * visible knees or full-body framing;
 * background shapes tangent to facial or hand contours.
 
@@ -638,4 +640,4 @@ Prioritize:
 * graphic shadow masses with selective painterly rendering;
 * strong character-background separation.
 
-The image must preserve an extended half-body composition from head to mid-thigh and should never drift into photorealism, 3D rendering, generic gacha polish, gritty western fantasy, or overloaded anime ornamentation.
+The image must preserve a tight extended upper-body composition from the head to just below the waist or upper hips, expanding toward the upper thighs only when required by the hands, action, instrument, weapon, or power source. It should never drift into photorealism, 3D rendering, generic gacha polish, gritty western fantasy, or overloaded anime ornamentation.

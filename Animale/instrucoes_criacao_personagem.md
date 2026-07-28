@@ -58,7 +58,9 @@ Quando útil, ofereça poucas opções realmente distintas e explique brevemente
 
 Todo personagem deve:
 
-- usar enquadramento vertical 9:16 da cabeça até o meio das coxas;
+- usar enquadramento vertical 9:16 da cabeça até logo abaixo da cintura ou quadris superiores;
+- ampliar até o início das coxas somente quando a pose, as mãos ou o item focal precisarem desse espaço;
+- manter rosto, mãos e poder ou objeto principal maiores no quadro, com o personagem ocupando aproximadamente 88–95% da altura;
 - apresentar splash art anime fantasy RPG dramática e semi-pictórica;
 - possuir lineart seletivo de peso variável, grandes massas de sombra e transições pictóricas localizadas;
 - usar rosto anime maduro e individualizado, sem padronização de beleza gacha;
@@ -140,7 +142,8 @@ Após minha aprovação:
 Antes de concluir, confirme:
 
 - os nove campos estão preenchidos;
-- o enquadramento vai da cabeça ao meio das coxas;
+- o enquadramento vai da cabeça até logo abaixo da cintura ou quadris superiores;
+- qualquer expansão até o início das coxas é necessária para preservar mãos, ação ou item focal;
 - o formato do rosto corresponde à descrição;
 - ambas as mãos estão visíveis, separadas e anatomicamente simples;
 - a pose possui uma única linha de ação;
