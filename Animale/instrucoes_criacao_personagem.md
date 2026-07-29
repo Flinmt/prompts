@@ -41,12 +41,12 @@ Conduza a criação nesta ordem:
 1. **Identidade:** nome, idade, ancestralidade, classe ou profissão, origem e função narrativa.
 2. **Personalidade:** temperamento, desejo, contradição e emoção principal.
 3. **Rosto e cabelo:** formato facial exato, olhos, pele, expressão, cabelo e característica memorável.
-4. **Corpo e silhueta:** constituição, impressão de altura, proporções anime, postura e forma externa.
-5. **Pose e mãos:** ação principal, direção do olhar, linha corporal, posição dos braços e gestos simples.
-6. **Figurino e equipamento:** grandes massas visuais, linguagem cultural, materiais, até dois acessórios e um item principal.
+4. **Corpo e silhueta:** constituição, impressão de altura, proporções anime, postura, pernas, calçados e forma externa de corpo inteiro.
+5. **Pose, mãos e apoio:** ação principal, direção do olhar, linha corporal, posição dos braços, gestos simples, base das pernas e posição dos pés.
+6. **Figurino e equipamento:** grandes massas visuais dos ombros aos calçados, linguagem cultural, materiais, até dois acessórios e um item principal.
 7. **Poder e motivo gráfico:** uma habilidade ou símbolo dominante ligado à história.
 8. **Iluminação focal:** fonte ambiente, fonte emissiva ou luz moldada, direção, cor e interação com rosto, mãos, cabelo, roupa e poder.
-9. **Ambiente e composição de fundo:** local simplificado, uma grande forma de contraponto à pose, um símbolo narrativo secundário, duas ou três camadas de profundidade e sua relação com gesto e iluminação.
+9. **Ambiente e composição de fundo:** local simplificado, uma grande forma envolvente construída com cenário, tecido, natureza ou poder, um símbolo narrativo secundário, duas ou três camadas de profundidade e sua relação com a figura inteira, o rosto e a iluminação.
 10. **Paleta:** base profunda 60%, cor cromática secundária 30% e acento luminoso 10%.
 
 Faça de uma a três perguntas curtas por vez e não repita decisões resolvidas.
@@ -57,20 +57,23 @@ Quando útil, ofereça poucas opções realmente distintas e explique brevemente
 
 Todo personagem deve:
 
-- usar enquadramento vertical 9:16 da cabeça até logo abaixo da cintura ou quadris superiores;
-- ampliar até o início das coxas somente quando a pose, as mãos ou o item focal precisarem desse espaço;
-- manter rosto, mãos e poder ou objeto principal maiores no quadro, com o personagem ocupando aproximadamente 88–95% da altura;
+- usar enquadramento vertical 9:16 de corpo inteiro, do topo do cabelo até a sola dos calçados;
+- manter cabeça, mãos, quadris, joelhos, pernas e pés integralmente dentro do quadro;
+- fazer a figura completa ocupar aproximadamente 82–92% da altura, preservando respiro acima do cabelo e abaixo dos pés;
+- concentrar o maior acabamento no rosto e nos olhos, seguido por cabelo, mãos e torso superior;
+- manter cintura, pernas, calçados, tecidos periféricos e efeitos completamente compreensíveis, mas construídos com formas mais amplas, menos bordas duras e menor quantidade de microdetalhes;
 - apresentar splash art anime fantasy RPG dramática e semi-pictórica;
 - possuir lineart seletivo de peso variável, grandes massas de sombra e transições pictóricas localizadas;
 - usar rosto anime maduro e individualizado, sem padronização de beleza gacha;
 - construir cabelo em grandes massas com reflexos cromáticos, evitando brilho plástico;
-- ter anatomia legível e pose dinâmica controlada;
+- ter anatomia de corpo inteiro legível e pose dinâmica controlada;
 - mostrar ambas as mãos com gestos simples;
+- mostrar ambos os pés com apoio ou lógica aérea claramente compreensível;
 - preservar exatamente o formato facial solicitado;
-- utilizar detalhe médio e grandes formas organizadas;
+- utilizar acabamento hierárquico e grandes formas organizadas, sem renderização uniforme em toda a figura;
 - obedecer à paleta 60/30/10;
 - usar uma fonte focal que ilumine de forma coerente mãos, rosto, cabelo, roupa ou equipamento próximo;
-- construir o fundo com uma grande forma gráfica que enquadre o rosto e complete a silhueta ou a linha de ação;
+- construir o fundo com uma grande forma gráfica envolvente que complete a silhueta inteira e conduza o olhar de volta ao rosto;
 - organizar o cenário em duas ou três camadas claras, com apenas um símbolo narrativo secundário;
 - fazer a luz ambiente pertencer ao cenário e permitir que a luz focal do personagem alcance uma superfície próxima;
 - possuir apenas um poder ou motivo gráfico dominante;
@@ -80,15 +83,17 @@ Todo personagem deve:
 
 Antes de aprovar a pose:
 
-- confirme que cabeça, pescoço, ombros, torso, cintura e quadris estão coerentes;
+- confirme que cabeça, pescoço, ombros, torso, cintura, quadris, joelhos, tornozelos e pés estão coerentes;
 - mantenha os dois braços rastreáveis dos ombros aos pulsos;
+- mantenha as duas pernas rastreáveis dos quadris até os calçados;
 - deixe cotovelos e mãos claramente separados do torso;
 - use gestos simples ou uma empunhadura clara;
 - evite mãos sobre o rosto, mãos sobrepostas, braços cruzados e torções extremas;
+- evite pernas fundidas, joelhos ambíguos, tornozelos quebrados e pés cortados, escondidos ou duplicados;
 - para humanoides padrão, use exatamente cinco dedos por mão;
 - para ancestralidades não humanas, respeite a anatomia definida pelo usuário.
 
-Não esconda mãos para resolver uma pose difícil. Simplifique a ação.
+Não esconda mãos ou pés para resolver uma pose difícil. Simplifique a ação e amplie as formas periféricas.
 
 ## Paleta 60/30/10
 
@@ -111,7 +116,7 @@ Quando o conceito estiver completo, apresente:
 - **Nome provisório:**
 - **Identidade e função:**
 - **Personalidade e emoção:**
-- **Pose, ação e mãos:**
+- **Pose, ação, mãos e apoio dos pés:**
 - **Rosto e cabelo:**
 - **Corpo e silhueta:**
 - **Figurino e equipamento:**
@@ -143,18 +148,20 @@ Após minha aprovação:
 Antes de concluir, confirme:
 
 - os nove campos estão preenchidos;
-- o enquadramento vai da cabeça até logo abaixo da cintura ou quadris superiores;
-- qualquer expansão até o início das coxas é necessária para preservar mãos, ação ou item focal;
+- o enquadramento mostra o corpo inteiro, do topo do cabelo até a sola dos calçados;
+- cabeça, mãos, quadris, joelhos, pernas e pés estão totalmente dentro do quadro;
 - o formato do rosto corresponde à descrição;
 - ambas as mãos estão visíveis, separadas e anatomicamente simples;
+- ambas as pernas são rastreáveis e os dois pés estão visíveis, coerentes e apoiados ou suspensos de forma intencional;
 - a pose possui uma única linha de ação;
 - a silhueta está limpa;
+- o rosto e os olhos possuem o maior acabamento, enquanto o restante da figura reduz detalhes progressivamente sem perder anatomia ou leitura do figurino;
 - a paleta possui funções 60/30/10;
 - existe uma fonte de luz focal localizada e coerente com a narrativa;
 - a luz focal interage com rosto, mãos, cabelo e materiais próximos sem apagar sua estrutura;
 - lineart, sombras, composição e detalhe seguem a linguagem semi-pictórica estabelecida pelos exemplos do próprio projeto;
 - personagem e fundo estão separados por valor, saturação ou temperatura;
-- a forma dominante do fundo enquadra o rosto e contrapõe ou prolonga a linha de ação;
+- a forma dominante do fundo envolve a figura inteira, contrapõe ou prolonga a linha de ação e conduz o olhar ao rosto;
 - o cenário possui duas ou três camadas legíveis e somente um símbolo narrativo secundário;
 - a luz focal interage discretamente com uma superfície próxima do cenário;
 - existe apenas um poder ou motivo dominante;
