@@ -8,13 +8,13 @@ Define the subject below. The rendering system will translate these traits direc
 
 * **Pose & Attitude:** Gira sobre o pé traseiro no instante em que estende um pequeno reagente retirado da caixa aberta junto ao quadril. A outra mão mantém a tampa e estabiliza a alça transversal, formando uma diagonal compacta entre a caixa, o frasco e seu olhar. A faixa do cabelo e as pontas do avental seguem o giro. Ela observa a reação com inteligência inquieta, humor contido e a cautela de quem sabe exatamente quando recuar.
 
-* **Face & Hair:** Possui rosto triangular, orelhas goblins longas e inclinadas, nariz pequeno, dentes discretamente irregulares e pele verde-oliva quente com sardas castanhas. Seus olhos âmbar são grandes, mas tratados sem brilho cartunesco. O cabelo castanho-avermelhado é curto, encaracolado e preso para trás por uma faixa de tecido mostarda.
+* **Face & Hair:** Possui rosto triangular, orelhas goblins longas e inclinadas, nariz pequeno, dentes discretamente irregulares e pele verde-oliva quente com sardas castanhas. Seus olhos âmbar são grandes, mas sem brilho cartunesco. Olhos, sardas centrais, nariz, dentes e assimetria da boca recebem o maior acabamento. O cabelo castanho-avermelhado curto forma uma massa arredondada dominante e uma pequena massa posterior, com três marcas encaracoladas junto à testa antes de perder as bordas atrás das orelhas.
 
-* **Outfit & Gear:** Veste um avental curto de couro claro sobre túnica mostarda, mangas verdes arregaçadas, calças reforçadas e botas pequenas com solas largas. A roupa apresenta manchas desbotadas e reparos cuidadosos, mas evita dezenas de frascos pendurados. Seus dois itens principais são uma caixa rígida de reagentes presa por uma alça transversal e uma máscara simples de tecido encerado dobrada no pescoço.
+* **Outfit & Gear:** Veste avental curto de couro claro, túnica mostarda, mangas verdes, calças reforçadas e botas pequenas. Avental, torso, mangas, pernas e botas formam cinco massas geométricas compactas; couro, tecido e borracha se distinguem por valor, cor e borda, sem costuras, manchas ou texturas repetidas. Caixa de reagentes e máscara encerada são formas icônicas com uma divisão de valor e uma única marca funcional.
 
-* **Environment:** Está em um pequeno laboratório montado no interior de um moinho abandonado. Uma mesa larga funciona como âncora principal, com a silhueta de um alambique de cobre escurecido e feixes de ervas como elementos secundários. A luz suave entra por uma janela circular, misturando-se ao brilho quente de um braseiro. Uma única curva de vapor alquímico âmbar sai do reagente e acompanha a rotação do corpo, permanecendo afastada do rosto.
+* **Environment:** Está em um pequeno laboratório dentro de um moinho abandonado. Mesa, janela circular, alambique e ervas formam quatro grandes massas facetadas, sem frascos, ferramentas, tábuas ou objetos individualizados. O chão utiliza dois planos largos. A janela resolve o rosto com luz suave, enquanto corpo e laboratório recebem apenas facetas amplas. Uma única curva angular de vapor âmbar acompanha a rotação e desaparece no fundo.
 
-* **Color Accent:** Mostarda dessaturado, verde-oliva, couro bege envelhecido, cobre oxidado e pequenos reflexos âmbar nos olhos e no vidro dos reagentes.
+* **Color Accent:** Mostarda dessaturado, verde-oliva, couro bege e cobre oxidado tratados como massas pouco acabadas; o âmbar se concentra nos olhos e em um pequeno plano facial, com apenas um eco fraco no reagente.
 
 ---
 
@@ -24,7 +24,7 @@ A vertical 9:16 full-body fantasy character splash illustration rendered in a st
 
 The composition captures one controlled moment of action while showing the entire figure from the top of the head to the soles of the footwear, with clear breathing room around the moving silhouette and beneath the lowest foot.
 
-The image must combine minimal geometric construction, controlled visible brushwork, deliberately stylized anatomy, selective facial detail, an original grounded medieval-fantasy costume language, and a recognizable but abstract environmental background.
+The image must combine minimal geometric construction, controlled visible brushwork, deliberately stylized anatomy, a distinctly more resolved focal face, an original grounded medieval-fantasy costume language, and a simplified but structurally recognizable environmental background.
 
 The visual language should feel authored for a distinctive fantasy game: graphic, shape-driven, moderately exaggerated, and designed rather than observed. Favor stylized proportions, simplified anatomy, angular silhouettes, compressed material information, bold gesture, and clearly grouped color masses over naturalistic anatomy, photographic lighting, or realistic surface modeling.
 
@@ -42,28 +42,31 @@ The character is built primarily from:
 
 The environment is built primarily from:
 
-* two to four large structural shapes;
+* four to seven large interlocking structural planes grouped around one dominant anchor;
 * one recognizable environmental anchor;
 * one or two contextual motifs;
 * broad foreground, middle-ground, and background divisions;
+* two or three selective structural details within the principal anchor;
 * controlled atmospheric masses;
 * a single principal light source.
 
-The rendering must remain intentionally simple.
+The rendering must remain intentionally simple outside the face.
 
 Do not over-render the image.
 
 Do not add unnecessary anatomical detail, fabric texture, minor accessories, complex reflections, decorative mechanisms, excessive props, or realistic surface information.
 
-The face is the most highly resolved area.
+The face is the most deliberately resolved and finished area by a clear margin.
 
-The hair, clothing, outer silhouette, lower body, and environment must become progressively looser, simpler, softer, and more abstract while the complete figure, limbs, action, and footwear remain clearly readable.
+The geometric simplification must begin immediately outside the central facial features. Hair masses, neck, hands, clothing, equipment, outer silhouette, lower body, and environment must become progressively broader, more faceted, less textured, and less finished while the complete figure, limbs, action, and footwear remain clearly readable.
 
-The final image should feel like a refined narrative character splash created with a small number of confident brush decisions rather than a fully polished or naturalistic digital painting.
+Do not extend facial-level edge control, tonal modeling, texture, or small detail into the rest of the character.
+
+The final image should feel like a precisely constructed face emerging from a coherent full-body arrangement of broad geometric planes, created with a small number of confident brush decisions rather than a uniformly polished or naturalistic digital painting.
 
 The costume should communicate the character's profession, social role, and place within the world primarily through silhouette, proportion, layering, material contrast, and a limited number of meaningful details.
 
-The environment should communicate where the character is through broad recognizable forms, lighting, atmosphere, and silhouette rather than exhaustive scenic rendering.
+The environment should clearly communicate where the character is through broad recognizable forms, perspective, lighting, atmosphere, silhouette, and a few selective structural identifiers. It should feel designed and partially resolved, not exhaustively rendered.
 
 Strictly NO detailed photorealism, NO smooth airbrushed rendering, NO dense painterly texture, NO thick oil impasto, NO intricate costume rendering, NO glossy surfaces, NO realistic skin pores, NO excessive hair strands, NO anime cel-shading, NO comic-style outlines, NO 3D render appearance, NO uniformly finished surfaces, NO ornate fantasy armor, NO excessive magical spectacle, NO generic high-fantasy clutter, NO fully rendered environments, and NO busy cinematic backgrounds.
 
@@ -73,7 +76,7 @@ Strictly NO detailed photorealism, NO smooth airbrushed rendering, NO dense pain
 
 Every part of the illustration must follow these principles:
 
-* **Style Signature:** "Stylized full-body fantasy character splash art for an original narrative game; expressive diagonal gesture; large geometric facial and body planes; simplified anatomy; authored proportions; economical brushwork; selective detail; controlled cinematic lighting; one restrained narrative effect; original fantasy costume language; recognizable abstract environment; unfinished outer edges."
+* **Style Signature:** "Stylized full-body fantasy character splash art for an original narrative game; expressive diagonal gesture; large geometric facial and body planes; simplified anatomy; authored proportions; economical brushwork; selective detail; controlled cinematic lighting; one restrained narrative effect; original fantasy costume language; recognizable structured environment; unfinished outer edges."
 
 * **Shape Economy:** "Use the fewest possible shapes needed to describe the character and location. Prefer one strong large shape over several small shapes."
 
@@ -92,6 +95,30 @@ Every part of the illustration must follow these principles:
 * **Silhouette Priority:** "The character's role and personality should remain readable from the silhouette alone, even at thumbnail size."
 
 * **Environmental Readability:** "The location should be understandable at a glance without inviting close inspection of background detail."
+
+---
+
+## Faceted Geometric Abstraction
+
+Outside the face, simplify through geometry rather than through darkness, blur, or missing anatomy.
+
+Construct:
+
+* the hair from one dominant graphic mass and no more than two secondary masses, with only a few face-framing marks;
+* the upper body from three to five interlocking angular light, midtone, and shadow planes;
+* the costume from three to five large overlapping shapes whose silhouette communicates role and culture;
+* each arm and leg from a small sequence of tapered planes with clear joints but minimal internal rendering;
+* equipment from an iconic outer contour, one major value division, and at most one identity-defining mark;
+* the ground from two to four broad perspective-aware planes, one readable contact shape, and a controlled cast shadow rather than individual stones, boards, tiles, or footprints;
+* the environment from four to seven large interlocking faceted forms separated by overlap, value, temperature, and clear spatial orientation rather than texture;
+* the primary environmental anchor with two or three selective internal divisions that explain its construction or identity;
+* the narrative effect as one economical arc, trail, ribbon, smoke mass, or light shape.
+
+Materials should differ primarily through hue, value, edge quality, and shape language. Do not describe leather, metal, wool, stone, wood, chain, or foliage through repeated local marks.
+
+Simplification must remain intentional and designed. Do not replace geometry with muddy darkness, generic haze, indiscriminate blur, empty space, or broken anatomy.
+
+The body and environment may retain visible angular brush planes comparable to a blocked-in painting, but their large shapes must feel complete as design. The background must not collapse into vague silhouettes, empty haze, or an unreadable color field.
 
 ---
 
@@ -157,6 +184,10 @@ The costume must remain visually subordinate to the face.
 * **Simplified Features:** Avoid excessive eyelash detail, lip texture, nostril rendering, wrinkles, pores, fine creases, or micro-anatomy.
 
 * **Structural Readability:** The face should remain clearly readable from a distance through light, midtone, and shadow masses.
+
+* **Selective Finish:** Give the eyes, eyelids, brows, nose bridge, mouth asymmetry, cheek planes, and jaw transition one additional controlled refinement pass that is not repeated on the body, costume, equipment, or environment.
+
+* **Focal Isolation:** Keep the value shape immediately behind the head calm and simple so the resolved facial construction reads before any gesture, prop, costume feature, or environmental cue.
 
 ### Eyes
 
@@ -250,7 +281,7 @@ The expression should suggest an inner life without becoming melodramatic.
 
 * **Primary Brush:** Use a broad, flat, semi-opaque digital brush with a slightly dry or chalky edge.
 
-* **Secondary Brush:** Use a smaller textured brush only for the eyes, mouth, eyebrows, selected hair accents, important costume edges, and one or two environmental edges.
+* **Secondary Brush:** Use a smaller textured brush primarily for the eyes, mouth, eyebrows, nose accents, and a few face-framing hair marks. Allow it outside the head only for one role-defining symbol or essential hand edge; never use it to finish the costume or environment.
 
 * **Stroke Size:** Favor medium and large strokes over small strokes.
 
@@ -288,10 +319,8 @@ Reserve sharp or semi-sharp edges for:
 * mouth separation;
 * jawline near the face;
 * face-framing hair strands;
-* tunic, robe, mantle, or armor neckline;
-* one or two important garment or armor closures;
-* a small focal symbol or accessory;
-* one or two edges on the primary environmental anchor.
+* a short section of the neckline directly beneath the face;
+* one small role-defining symbol or essential hand edge.
 
 ### Medium Edges
 
@@ -300,13 +329,9 @@ Use controlled medium edges for:
 * cheekbones;
 * neck;
 * inner hair shapes;
-* mantle, cloak, tabard, or robe edges;
-* shoulders;
-* upper clothing;
-* gloves;
-* hands;
-* major leather or armor panels;
-* the closest structural elements in the environment.
+* selected hand shapes;
+* one or two action-facing upper-garment edges;
+* one edge of role-defining equipment.
 
 ### Soft or Lost Edges
 
@@ -316,9 +341,11 @@ Use soft, broken, or disappearing edges for:
 * outer shoulder silhouette;
 * sleeves;
 * cloak, robe, tunic, or garment hem;
+* most shoulders, torso, armor, gloves, and equipment;
 * selected lower-torso edges;
 * selected outer edges of the skirt, legs, and boots;
 * outer accessories;
+* the primary environmental anchor;
 * distant architecture;
 * secondary environmental elements;
 * atmospheric haze;
@@ -330,7 +357,7 @@ Do not outline the entire environment.
 
 The character must emerge from and partially dissolve into the environment.
 
-The face should contain the strongest edge contrast in the entire image.
+The face should contain the strongest edge contrast in the entire image by a wide margin. No costume, weapon, hand, magical effect, or environmental edge may appear equally finished.
 
 ---
 
@@ -468,22 +495,23 @@ Magic and equipment must support the character's role and location without domin
 
 ---
 
-## Abstract Environmental Background
+## Structured Abstract Environmental Background
 
-The background must present a recognizable location through simplified, abstract environmental design.
+The background must present a clearly recognizable location through simplified, structured environmental design.
 
-The viewer should be able to understand the general type of place where the character is standing, but the environment must remain secondary, painterly, incomplete, and visually restrained.
+The viewer should understand both the general type of place and its principal spatial construction at a glance. The environment remains painterly, incomplete, lower-finish than the character, and visually restrained, but it must not become vague or interchangeable.
 
 The location must be communicated through:
 
-* two to four large environmental shapes;
+* four to seven large interlocking environmental planes grouped around one dominant anchor;
 * one recognizable architectural or structural anchor;
 * one or two contextual objects or motifs;
+* two or three selective internal details that identify how the dominant anchor is built;
 * a controlled principal light source;
 * broad divisions of foreground, middle ground, and background;
-* atmosphere, color, and silhouette rather than small detail.
+* readable perspective, contact, atmosphere, color, and silhouette rather than dense small detail.
 
-The environment should be readable from its major shapes alone.
+The environment should be readable from its major shapes, spatial overlap, and a few deliberate structural identifiers.
 
 Do not construct the location through exhaustive rendering.
 
@@ -539,7 +567,7 @@ Secondary cues may include:
 * a partial stone platform;
 * indistinct ritual, healing, or crafting instruments.
 
-These elements must remain simplified, partially obscured, and subordinate to the character.
+These elements must remain simplified and subordinate to the character, but their principal orientation and function should remain understandable.
 
 ### Environment Shape Economy
 
@@ -554,6 +582,10 @@ Use:
 * soft irregular masses for mist, smoke, foliage, shadow, fabric, dust, and atmospheric haze;
 * one strong light or dark value shape behind the upper body.
 
+Within the primary anchor, allow two or three selective structural identifiers, such as an arch opening, window division, doorway recess, roofline, timber joint, altar step, tree fork, forge rim, broken masonry edge, or banner hem. Describe each identifier with one clean plane boundary or short controlled edge, never with repeated texture.
+
+The ground must show a clear orientation in perspective, one contact shape beneath the character, and one broad cast shadow or value connection tying the feet to the location.
+
 Avoid small repeated geometry.
 
 Avoid drawing individual bricks, books, roof tiles, chain links, tools, bottles, papers, boards, carvings, or architectural ornaments.
@@ -564,17 +596,18 @@ A group of objects should be represented as one unified mass whenever possible.
 
 Follow this strict hierarchy:
 
-* **Character's face and eyes:** Highest detail.
-* **Character's hair and upper body:** Moderate detail.
-* **Character's costume:** Moderate to low detail.
-* **Primary environmental anchor:** Low to moderate detail.
-* **Secondary environmental cues:** Low detail.
-* **Distant environment:** Minimal detail.
-* **Peripheral background:** Nearly abstract.
+* **Character's face and eyes:** Singular highest detail and most resolved area.
+* **Face-framing hair:** Moderate detail inside one dominant graphic hair mass.
+* **Character's hands and upper body:** Low to moderate detail through faceted planes.
+* **Character's costume and equipment:** Low detail through grouped geometric construction.
+* **Primary environmental anchor:** Low to moderate detail, readable through broad interlocking planes and two or three selective structural identifiers.
+* **Secondary environmental cues:** Low detail with clear silhouette and orientation.
+* **Distant environment:** Simplified value and color masses with one readable depth division.
+* **Peripheral background:** Broad and soft, but not dissolved into empty haze.
 
-The primary environmental anchor may contain one or two defined edges, but all remaining environmental forms should use soft, broken, or lost edges.
+The primary environmental anchor may contain two to four controlled medium edges and two or three internal plane divisions. Secondary and distant forms should use broader, softer, broken, or lost edges without local surface rendering.
 
-The environment must never contain more detail than the character's clothing.
+The environment must remain less edge-sharp and materially resolved than the character's clothing and dramatically less resolved than the face, even when the main anchor uses a comparable number of broad structural planes.
 
 ### Environmental Composition
 
@@ -602,13 +635,13 @@ Do not place high-contrast objects directly behind the eyes or central facial fe
 
 Suggest depth through three simplified layers:
 
-1. **Foreground:** One partial dark shape, such as the edge of a desk, railing, doorway, curtain, statue, shelf, tree, or structural beam.
-2. **Middle Ground:** The character and the principal environmental anchor.
-3. **Background:** Broad atmospheric shapes, diffused architecture, haze, shadow, or distant light.
+1. **Foreground:** One partial dark shape with readable orientation, such as the edge of a desk, railing, doorway, curtain, statue, shelf, tree, or structural beam.
+2. **Middle Ground:** The character, a clear contact plane, and the principal environmental anchor separated through overlap and value.
+3. **Background:** One or two simplified depth layers of architecture, landscape, haze, shadow, or distant light.
 
-The separation between these layers should remain subtle.
+The separation between these layers should be clear at thumbnail size but softer and lower in contrast than the character.
 
-Avoid deep cinematic perspective, complex vanishing points, dramatic scale changes, or detailed spatial construction.
+Use simple coherent perspective. Avoid deep cinematic perspective, multiple complex vanishing points, dramatic scale changes, or exhaustive spatial construction.
 
 ### Location-Specific Abstraction
 
@@ -647,7 +680,8 @@ Use only the minimum number of cues necessary to identify the location.
 * Construct the lighting with broad geometric shapes rather than smooth gradients.
 * Keep the shadow side readable and chromatic.
 * Use moderately heightened light-dark contrast to support the action line and focal hierarchy.
-* Let the light clarify the cheekbones, nose bridge, eyes, jaw, collar, major garment planes, and primary environmental anchor.
+* Let the light fully clarify the cheekbones, nose bridge, eyes, mouth, and jaw.
+* On the collar, body, costume, equipment, and environment, reduce the same light into broad directional masses without small reflected-light passages or polished material description.
 * The environmental light must visually connect the character to the location.
 * A subtle secondary ambient or rim light may separate one moving edge of the silhouette, but it must remain subordinate.
 * Allow one controlled rim-light accent along the action-facing edge of the body, weapon, cloak, or hair.
@@ -658,7 +692,7 @@ Use only the minimum number of cues necessary to identify the location.
 * Avoid theatrical backlighting that obscures the face or turns the figure into a silhouette.
 * Avoid glossy facial highlights.
 
-The lighting should clarify the face, action, costume, and location while adding focused splash-art impact without becoming visual spectacle.
+The lighting should finish the face, clarify the action through broad body shapes, and suggest the costume and location without completing their rendering.
 
 ---
 
@@ -786,9 +820,9 @@ Avoid numerous competing hues or bright environmental accents.
 * **Pose:** A controlled action pose captured at the beginning, midpoint, or aftermath of one role-specific movement.
 * **Silhouette:** Simple, expressive, socially coded, and identifiable, with one dominant diagonal or curved action line.
 * **Focal Point:** Eyes and central facial features.
-* **Secondary Focus:** The complete action silhouette, hands, role-defining equipment, hair, clothing flow, and torso rotation.
-* **Tertiary Focus:** One restrained narrative effect, meaningful symbol, footwear shape, or environmental anchor.
-* **Low-Priority Areas:** Minor garment folds, secondary boot details, distant architecture, and peripheral scenery.
+* **Secondary Focus:** Face-framing hair and the complete action silhouette, understood through large connected shapes rather than additional finish.
+* **Tertiary Focus:** Hands, role-defining equipment, clothing flow, torso rotation, and one restrained narrative effect, all rendered with visibly fewer edges and details than the face.
+* **Low-Priority Areas:** Costume surfaces, garment folds, legs, footwear, environmental anchor, distant architecture, and peripheral scenery.
 * **Negative Space:** Uncluttered and asymmetrically balanced around the direction of movement.
 * **Perspective:** Natural eye-level or moderately low three-quarter view, without extreme lens distortion.
 * **Cropping:** Do not crop the head, hair, shoulders, elbows, hands, equipment, garment hems, legs, ankles, footwear, or feet. Preserve a small visible margin beneath the lowest foot.
@@ -830,29 +864,27 @@ The pose should communicate personality, class, and narrative through one contro
 
 Follow this strict detail distribution:
 
-* **Face and eyes:** 100% detail.
-* **Hair near the face:** 70% detail.
-* **Leading hand, face-framing hair, and action-facing edges:** 65% detail.
-* **Secondary hand, neck, and collar:** 50% detail.
-* **Primary upper garment structure:** 45% detail.
-* **Role-defining symbol, focus, tool, shield, or weapon:** 45% detail.
-* **Chest rotation, torso, armor, and upper garment layers:** 40% detail.
-* **Single narrative effect near the action:** 30% detail.
-* **Primary environmental anchor:** 25% detail.
-* **Lower garments, legs, and major lower-body shapes:** 25% detail.
-* **Footwear and readable weight placement:** 22% detail.
-* **Secondary environmental cues:** 15% detail.
-* **Outer silhouette and peripheral garment edges:** 12% detail.
-* **Distant environment:** 8% detail.
-* **Peripheral background:** 5% detail.
+* **Face and eyes:** 100% detail and the most deliberately resolved area.
+* **Hair immediately framing the face:** 50–55% detail.
+* **Neck, collar, leading hand, and essential action-facing edges:** 35–40% detail.
+* **Secondary hand and role-defining symbol, focus, tool, shield, or weapon:** 30–35% detail.
+* **Chest rotation, torso, armor, and primary upper garment structure:** 25–30% detail.
+* **Single narrative effect near the action:** 20–25% detail.
+* **Lower garments, legs, and major lower-body shapes:** 18–22% detail.
+* **Footwear and readable weight placement:** 15–18% detail.
+* **Primary environmental anchor:** 25–30% detail through broad structure, not surface finish.
+* **Outer silhouette and peripheral garment edges:** 10–15% detail.
+* **Secondary environmental cues:** 12–18% detail.
+* **Distant environment:** 8–12% detail.
+* **Peripheral background:** 5–8% detail.
 
 Do not apply equal detail across the entire image.
 
-The reduction of detail away from the face and principal action must be clearly visible.
+The reduction of detail must begin immediately outside the face and remain unmistakable across hair, hands, costume, equipment, lower body, and environment.
 
-The clothing must remain legible without becoming intricately rendered.
+The body, action, and clothing must remain legible through silhouette, overlap, proportion, and value grouping rather than finish.
 
-The environment must remain recognizable without becoming fully illustrated.
+The environment must remain recognizable as a specific place with coherent depth and construction without appearing illustrated in full.
 
 ---
 
@@ -890,7 +922,12 @@ Strictly avoid:
 * excessive belts and buckles;
 * visually noisy silhouettes;
 * equal detail across the whole image;
+* hair, hands, costume, equipment, or effects finished to the same level as the face;
+* facial-level sharp edges repeated across the body;
+* detailed material rendering outside the facial focal area;
 * fully rendered backgrounds;
+* vague empty backgrounds with no recognizable structural anchor;
+* background reduced entirely to haze, darkness, or disconnected silhouettes;
 * panoramic scenery;
 * crowded streets;
 * background characters;
@@ -946,7 +983,8 @@ It must feel:
 * environmentally recognizable;
 * atmospheric but controlled;
 * original rather than derivative;
-* focused on the face and principal action.
+* clearly focused on the face;
+* precisely resolved at the facial features and geometrically simplified everywhere else.
 
 The complete body must be part of the design statement. The pose, costume silhouette, limbs, role-defining equipment, and footwear should read as one cohesive moving full-body shape, with visibly stylized proportions and clear graphic rhythm. At least one foot should visibly carry or transfer weight, and both feet must remain readable rather than fading into the background.
 
@@ -965,7 +1003,7 @@ The costume design should suggest an original medieval-fantasy world defined by:
 * practical survival;
 * restrained wonder.
 
-The environment should feel like a location remembered through impression, structure, color, light, and atmosphere rather than observed with photographic precision.
+The environment should feel like a location remembered through a clear structural impression, a few selective construction details, color, light, and atmosphere rather than observed or fully painted.
 
 The viewer should understand where the character is without being invited to inspect the location in detail.
 
@@ -985,15 +1023,15 @@ The final result must prioritize:
 * culturally grounded medieval-fantasy costume silhouettes;
 * abstract clothing shapes;
 * socially readable tailoring;
-* a recognizable but incomplete location;
-* one dominant environmental anchor;
+* a recognizable but incomplete location with coherent foreground, middle-ground, and background depth;
+* one dominant environmental anchor described by broad interlocking planes and two or three selective structural identifiers;
 * minimal contextual props;
 * one restrained narrative effect tied to the action;
 * selective sharp edges;
 * soft outer contours;
 * controlled color harmony with one moderately stronger accent;
 * atmospheric integration between figure and environment;
-* a strong contrast between the resolved face and action area and the simplified but fully readable body and background;
+* a clear controlled contrast between the resolved face and the geometrically simplified but fully readable body, costume, equipment, effects, and background;
 * and an uncropped head-to-toe action silhouette with visible footwear and readable weight placement.
 
-The image should look as though it was created with a small number of deliberate brushstrokes, not through exhaustive rendering.
+The face should look intentionally completed. Everything beyond it should look constructed with a small number of deliberate broad brushstrokes, lost edges, grouped values, and incomplete material indications rather than exhaustive rendering.
