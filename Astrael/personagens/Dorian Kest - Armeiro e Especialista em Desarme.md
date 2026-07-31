@@ -1,30 +1,30 @@
-# Simplified Painterly Full-Body Character Art (Geometric Industrial-Fantasy Game Style)
+# Simplified Painterly Half-Body Character Art (Geometric Industrial-Fantasy Game Style)
 
 ## [CHARACTER DATA INPUT]
 
-Define the subject below. The rendering system will translate these traits directly into the simplified geometric full-body character engine:
+Define the subject below. The rendering system will translate these traits directly into the simplified geometric half-body character engine:
 
-* **Subject Identity:** Mara Veyne, uma mulher de 21 anos de idade e aventureira neste mundo industrial-fantástico.
+* **Subject Identity:** Dorian Kest, um homem de 54 anos, proprietário de uma pequena loja de armas com oficina de manutenção e antigo especialista em contenção e desarme. Antes de abrir o estabelecimento, trabalhou como instrutor de combate para agentes encarregados de capturar suspeitos vivos, mas abandonou a função quando percebeu que suas técnicas estavam sendo usadas em interrogatórios e operações políticas. É compacto e resistente, com ombros largos, antebraços fortes e musculatura funcional, sem o volume exagerado de um ferreiro tradicional. Observador, econômico nas palavras e educado sem ser acolhedor, analisa mãos, distância e distribuição de peso antes de olhar diretamente para o rosto de alguém. Evita confrontos, mas nunca parece despreparado.
 
-* **Pose & Attitude:** Ela tem uma expressão simples até certo ponto inocente enquanto olha para a camera, ventida em um vestido curto ajustado para a aventura e levemente inspirado pela moda vitoriana industrial
+* **Pose & Attitude:** Dorian está parado à entrada da oficina em uma pose estática de meio corpo e três quartos, enquadrado da cabeça até pouco abaixo da cintura. Seu tronco permanece ligeiramente afastado do centro da passagem, ocupando o espaço sem bloquear completamente a porta. Uma mão repousa aberta sobre o batente; a outra permanece baixa e relaxada, segurando uma pequena pedra de afiar entre os dedos junto à cintura. Os dedos estão soltos e precisamente posicionados, prontos para interceptar um pulso ou redirecionar uma arma. Ele encara diretamente o observador com reconhecimento silencioso, como se já tivesse notado uma mão repousando perto do punho de uma lâmina. Cabeça, ombros, braços, ambas as mãos, braçadeira e pedra de afiar permanecem visíveis; o corte inferior atravessa apenas a massa contínua do avental, nunca uma articulação.
 
-* **Face & Hair:** Ela tem cabelo curto com uma franja reta, olhos azuis e rosto afinado. Ela tambem tem sardas na região do nariz e seios. Os cabelos dela são pretos com mechas vermelhos.
+* **Face & Hair:** Possui pele oliva envelhecida, rosto largo e anguloso, maçãs baixas, nariz quebrado, mandíbula curta e boca estreita mantida em repouso. Uma cicatriz fina desce da base da orelha esquerda até o maxilar. Seus olhos castanho-âmbar são pequenos, extremamente atentos e recebem o maior acabamento da pintura, acompanhados por sobrancelhas baixas que reforçam uma expressão calculista sem hostilidade aberta. O cabelo grisalho muito curto forma uma única massa compacta acompanhando o crânio, com apenas uma divisão escura junto às têmporas. A barba curta e quadrada acompanha mandíbula e queixo como um único plano escuro, com pouquíssimas marcas internas e sem esconder a boca.
 
-* **Outfit & Gear:** Usa alguns acessorios de viagem e carrega uma bussula no sinto, seu vestido ja citado possui uma coloração azulada, tem um colar com um pingente de cor vermelha e usa binco nos ouvidos. Seus ombros estão expostos.
+* **Outfit & Gear:** Usa uma camisa carvão de mangas dobradas, um antigo gibão de treinamento parcialmente visível sob um colete de trabalho em couro marrom fosco e um avental curto de armeiro que desaparece no corte inferior. Camisa, gibão, colete e avental formam quatro grandes massas sobrepostas, com costuras e dobras reduzidas a poucas divisões angulares. Um dos antebraços possui uma braçadeira assimétrica de couro reforçado com uma borda estreita de metal escurecido, construída para interceptar e desviar lâminas. Seus dois equipamentos significativos são essa braçadeira de desarme e a pequena pedra de afiar entre os dedos. Ele não porta nenhuma arma visível; sua confiança deve parecer baseada em técnica, leitura corporal e controle de distância. Couro, tecido, metal e pedra são diferenciados por valor, temperatura, borda e forma, nunca por textura repetida.
 
-* **Environment:** Ela esta em uma plataforma de trem sozinha olhando na direção de onde o três esta vindo ate que notou a camera observando sua beleza.
+* **Environment:** Dorian está no limiar de sua loja de armas e oficina de manutenção. Ele domina quase todo o quadro; o batente largo da porta funciona como âncora estrutural, acompanhado somente pela massa âmbar de uma forja e por um grupo unificado de lâminas expostas, reduzido a uma única silhueta serrilhada e distante. A luz quente da oficina encontra a iluminação fria da rua sobre seu rosto, dividindo-o em poucos planos claros e legíveis. Batente, forja, parede, fumaça e exposição de armas formam de quatro a seis silhuetas facetadas parciais nos espaços estreitos ao redor de cabeça e ombros. Nenhuma lâmina do cenário deve parecer empunhada, atravessar seu rosto ou competir com suas mãos.
 
-* **Color Accent:** [e.g., Muted amber facial lighting, pale sage eye reflections, subdued oxidized-silver highlights, restrained olive accents, and soft grey-violet under-eye shadows]
+* **Color Accent:** Carvão, couro marrom profundo, cinza de fuligem, ferro oxidado e azul-acinzentado frio formam a base dessaturada. Âmbar queimado é o único acento dominante, concentrado nos olhos, na forja e na borda metálica da braçadeira. O rosto recebe as transições cromáticas mais sutis; cabelo, barba, braços, roupa e oficina permanecem construídos por blocos largos, secos e deliberadamente simplificados.
 
 ---
 
 ## Technical Rendering Engine (STRICT & FIXED — DO NOT MODIFY)
 
-A vertical 9:16 full-body character concept illustration rendered in a simplified painterly style for an original narrative game.
+A vertical 9:16 half-body character concept illustration rendered in a simplified painterly style for an original narrative game.
 
-The composition is a full-body character illustration showing the entire figure from the top of the head to the soles of the boots, with clear breathing room above the head and below the feet.
+The composition is a close, character-dominant waist-up illustration showing the figure from the top of the head to slightly below the waist. The character must occupy nearly the entire vertical frame and most of its useful width, leaving only a narrow amount of breathing room above the hair and beside the shoulders. The lower crop must cross a continuous garment mass, never the elbows, wrists, hands, or essential equipment.
 
-The image must combine minimal geometric construction, controlled visible brushwork, deliberately stylized anatomy, selective facial detail, an original dark industrial-fantasy costume language, and a recognizable but abstract environmental background.
+The image must combine faceted geometric construction, controlled visible brushwork, deliberately stylized anatomy, a clearly resolved face, an original dark industrial-fantasy costume language, and a recognizable environmental background reduced to large abstract planes.
 
 The visual language should feel authored for a distinctive narrative game: graphic, shape-driven, slightly exaggerated, and designed rather than observed. Favor stylized proportions, angular silhouettes, compressed material information, and clearly grouped color masses over naturalistic anatomy, photographic lighting, or realistic surface modeling.
 
@@ -53,15 +53,15 @@ Do not over-render the image.
 
 Do not add unnecessary anatomical detail, fabric texture, minor accessories, complex reflections, decorative mechanisms, excessive props, or realistic surface information.
 
-The face is the most highly resolved area.
+The face is the most highly resolved area and the only area allowed subtle transitions and small descriptive marks.
 
-The hair, clothing, outer silhouette, lower body, and environment must become progressively looser, simpler, softer, and more abstract while the complete figure, legs, stance, and footwear remain clearly readable.
+The hair, clothing, equipment, outer silhouette, lower torso, and environment must become progressively more geometric, lower-detail, and abstract while the complete head, shoulders, arms, hands, waist-level equipment, profession, and location remain clearly readable.
 
-The final image should feel like a refined character study created with a small number of confident brush decisions rather than a fully polished digital painting.
+The final image should feel like a resolved face emerging from a deliberately simplified arrangement of faceted character and environmental shapes, created with a small number of confident brush decisions rather than a uniformly polished digital painting.
 
 The costume should communicate the character's profession, social role, and place within the world primarily through silhouette, proportion, layering, material contrast, and a limited number of meaningful details.
 
-The environment should communicate where the character is through broad recognizable forms, lighting, atmosphere, and silhouette rather than exhaustive scenic rendering.
+The environment should communicate where the character is through broad recognizable forms, lighting, atmosphere, and silhouette rather than exhaustive scenic rendering. It must behave as a narrow framing layer around the enlarged character, never as an equally important scenic composition.
 
 Strictly NO detailed photorealism, NO smooth airbrushed rendering, NO dense painterly texture, NO thick oil impasto, NO intricate costume rendering, NO glossy surfaces, NO realistic skin pores, NO excessive hair strands, NO anime cel-shading, NO comic-style outlines, NO 3D render appearance, NO uniformly finished surfaces, NO ornate fantasy armor, NO exaggerated steampunk clichés, NO fully rendered environments, and NO busy cinematic backgrounds.
 
@@ -71,7 +71,7 @@ Strictly NO detailed photorealism, NO smooth airbrushed rendering, NO dense pain
 
 Every part of the illustration must follow these principles:
 
-* **Style Signature:** "Stylized full-body digital character painting for an original narrative game; large geometric facial and body planes; restrained editorial concept art; authored proportions; economical brushwork; selective detail; muted earth-tone palette; original industrial-fantasy tailoring; recognizable abstract environment; unfinished outer edges."
+* **Style Signature:** "Stylized half-body digital character painting for an original narrative game; large geometric facial and upper-body planes; restrained editorial concept art; authored proportions; economical brushwork; selective detail; muted earth-tone palette; original industrial-fantasy tailoring; recognizable abstract environment; unfinished outer edges."
 
 * **Shape Economy:** "Use the fewest possible shapes needed to describe the character and location. Prefer one strong large shape over several small shapes."
 
@@ -90,6 +90,25 @@ Every part of the illustration must follow these principles:
 * **Silhouette Priority:** "The character's role and personality should remain readable from the silhouette alone, even at thumbnail size."
 
 * **Environmental Readability:** "The location should be understandable at a glance without inviting close inspection of background detail."
+
+---
+
+## Faceted Geometric Abstraction
+
+Outside the face, simplify the illustration through deliberate geometric design rather than blur, darkness, unfinished anatomy, or missing information.
+
+* **Hair:** Use one dominant graphic mass and no more than two secondary face-framing divisions. Show flow through silhouette and plane changes, not strand rendering.
+* **Upper Body:** Construct the neck, shoulders, chest, and coat from three to five interlocking angular light, midtone, and shadow planes.
+* **Costume:** Reduce the complete outfit to three to five large overlapping garment shapes. Describe folds only when they change the silhouette or connect major planes.
+* **Limbs:** Build each arm and leg from a short sequence of tapered planes with clear joints and minimal internal modeling.
+* **Equipment:** Give each important object an iconic outer contour, one major internal value division, and no more than one identity mark.
+* **Lower Composition:** Let the waist, coat, and nearest environmental forms meet through two to four broad supporting planes. Do not add small ground textures, scattered debris, or incidental objects along the lower crop.
+* **Environment:** Use three to six large faceted silhouettes separated by overlap, value, and temperature rather than texture.
+* **Narrative Effect:** If smoke, light, a trail, or occult residue is present, express it as one economical directional arc, ribbon, or connected shape.
+* **Material Separation:** Distinguish fabric, leather, metal, stone, and smoke through hue, value, edge quality, and shape design rather than repeated local marks.
+* **Readable Simplification:** Every simplified region must remain intentional, structurally legible, and compositionally useful. It must never look muddy, accidentally blurred, anatomically absent, or merely unfinished.
+
+The visual contrast between the carefully resolved face and the faceted construction of everything around it is a primary part of the style.
 
 ---
 
@@ -170,7 +189,9 @@ The costume must remain visually subordinate to the face.
 
 * **Simplified Features:** Avoid excessive eyelash detail, lip texture, nostril rendering, wrinkles, pores, fine creases, or micro-anatomy.
 
-* **Structural Readability:** The face should remain clearly readable from a distance through light, midtone, and shadow masses.
+* **Structural Readability:** The face should remain clearly readable from a distance through light, midtone, and shadow masses while receiving visibly finer resolution than every surrounding area.
+
+* **Focal Isolation:** Resolve the eyes, brow, nose, mouth, and essential beard boundary with controlled precision. Immediately reduce information across the hair, neck, collar, shoulders, and background so the face appears intentionally finished without requiring realistic skin rendering.
 
 ### Eyes
 
@@ -260,7 +281,7 @@ The expression should suggest an inner life without becoming melodramatic.
 
 * **Primary Brush:** Use a broad, flat, semi-opaque digital brush with a slightly dry or chalky edge.
 
-* **Secondary Brush:** Use a smaller textured brush only for the eyes, mouth, eyebrows, selected hair accents, important costume edges, and one or two environmental edges.
+* **Secondary Brush:** Use a smaller textured brush primarily for the eyes, mouth, eyebrows, and essential face-defining beard edges. Outside the face, allow it only on one selected hand or equipment mark and one environmental edge.
 
 * **Stroke Size:** Favor medium and large strokes over small strokes.
 
@@ -297,12 +318,9 @@ Reserve sharp or semi-sharp edges for:
 * selected nose edges;
 * mouth separation;
 * jawline near the face;
-* face-framing hair strands;
-* shirt collar;
-* high coat collar;
-* one or two important garment closures;
-* a small focal insignia or accessory;
-* one or two edges on the primary environmental anchor.
+* one short face-framing hair division;
+* one short neckline or high-collar edge;
+* one identity mark on a selected hand or essential piece of equipment.
 
 ### Medium Edges
 
@@ -310,14 +328,10 @@ Use controlled medium edges for:
 
 * cheekbones;
 * neck;
-* inner hair shapes;
-* lapels;
-* shoulders;
-* upper clothing;
-* gloves;
-* hands;
-* major leather panels;
-* the closest structural elements in the environment.
+* the dominant inner hair division;
+* selected shoulder and upper-clothing planes;
+* the leading hand and its equipment;
+* one or two edges of the closest structural anchor.
 
 ### Soft or Lost Edges
 
@@ -327,9 +341,9 @@ Use soft, broken, or disappearing edges for:
 * coat shoulders;
 * sleeves;
 * coat hem;
-* selected lower-torso edges;
-* selected outer edges of the skirt, legs, and boots;
-* outer accessories;
+* most torso and garment-plane boundaries;
+* most hand and equipment edges;
+* selected outer edges of the lower torso and coat at the frame boundary;
 * distant architecture;
 * secondary environmental elements;
 * atmospheric haze;
@@ -347,17 +361,17 @@ The face should contain the strongest edge contrast in the entire image.
 
 ## Hair Construction
 
-* Build the hair as two or three large dark graphic masses.
+* Build the hair as one dominant dark graphic mass with no more than two secondary divisions near the face.
 * Define the main parting and overall flow before adding strands.
-* Use broad directional strokes to indicate volume.
-* Add only a limited number of thin strands around the forehead, temples, ears, and face.
+* Use broad angular plane changes to indicate volume.
+* Add no more than two or three short strand accents around the forehead, temples, ears, or face.
 * Use simple muted highlights rather than glossy reflections.
 * Avoid rendering individual hairs across the entire head.
 * Avoid excessively fluffy, realistic, highly detailed, or perfectly groomed hair.
 * Keep the outer hair silhouette partially soft, broken, or unfinished.
 * Allow portions of dark hair to merge with the environment or coat where values are similar.
 
-The hair should read clearly from shape, silhouette, and direction alone.
+The hair should read clearly from shape, silhouette, and direction alone, appearing almost like one designed object rather than a collection of individual hairs.
 
 ---
 
@@ -373,7 +387,7 @@ The hair should read clearly from shape, silhouette, and direction alone.
 * Limit accessories to one or two meaningful elements.
 * Avoid excessive buttons, seams, buckles, embroidery, gears, tubes, armor plates, decorative mechanisms, and small pouches.
 * Do not allow the costume to become more detailed than the face.
-* Simplify the lower garments, legs, and footwear into strong painterly shapes without dissolving, hiding, or cropping any part of the figure.
+* Simplify the lower torso and waist-level garment layers into strong painterly shapes that lead naturally into the planned lower crop.
 * The costume must remain original and should not reproduce a specific existing character design.
 
 ### Social Role Variations
@@ -491,11 +505,11 @@ The viewer should be able to understand the general type of place where the char
 
 The location must be communicated through:
 
-* two to four large environmental shapes;
+* three to six large faceted environmental silhouettes;
 * one recognizable architectural or structural anchor;
 * one or two contextual objects or motifs;
 * a controlled principal light source;
-* broad divisions of foreground, middle ground, and background;
+* two to four broad supporting planes around the lower torso and clear foreground, middle-ground, and background divisions;
 * atmosphere, color, and silhouette rather than small detail.
 
 The environment should be readable from its major shapes alone.
@@ -566,7 +580,7 @@ Use:
 * long vertical shapes for pillars, pipes, curtains, bars, and architectural supports;
 * horizontal bands for floors, tables, platforms, desks, and counters;
 * partial circles or arcs for machinery, windows, instruments, or occult devices;
-* soft irregular masses for smoke, shadow, fabric, dust, and atmospheric haze;
+* connected angular or softly faceted masses for smoke, shadow, fabric, dust, and atmospheric haze;
 * one strong light or dark value shape behind the upper body.
 
 Avoid small repeated geometry.
@@ -580,14 +594,15 @@ A group of objects should be represented as one unified mass whenever possible.
 Follow this strict hierarchy:
 
 * **Character's face and eyes:** Highest detail.
-* **Character's hair and upper body:** Moderate detail.
-* **Character's costume:** Moderate to low detail.
-* **Primary environmental anchor:** Low to moderate detail.
+* **Character's hair:** Simplified moderate detail concentrated near the face.
+* **Character's neck, collar, and leading hand:** Selective low-to-moderate detail.
+* **Character's upper body, costume, and equipment:** Low detail through clear faceted construction.
+* **Primary environmental anchor:** Low detail.
 * **Secondary environmental cues:** Low detail.
 * **Distant environment:** Minimal detail.
 * **Peripheral background:** Nearly abstract.
 
-The primary environmental anchor may contain one or two defined edges, but all remaining environmental forms should use soft, broken, or lost edges.
+The primary environmental anchor may contain one or two medium-defined edges, but all remaining environmental forms should use broad faceted divisions with soft, broken, or lost outer edges.
 
 The environment must never contain more detail than the character's clothing.
 
@@ -661,7 +676,8 @@ Use only the minimum number of cues necessary to identify the location.
 * Construct the lighting with broad geometric shapes rather than smooth gradients.
 * Keep the shadow side readable and chromatic.
 * Use restrained light-dark contrast.
-* Let the light clarify the cheekbones, nose bridge, eyes, jaw, collar, major garment planes, and primary environmental anchor.
+* Let the light fully clarify the cheekbones, nose bridge, eyes, mouth, jaw, and essential beard boundary.
+* Across the collar, upper body, costume, equipment, lower crop, and environment, reduce light to broad directional value masses without polished reflected-light modeling.
 * The environmental light must visually connect the character to the location.
 * A very subtle secondary ambient light may be used, but it must remain subordinate.
 * Avoid dramatic rim lighting.
@@ -794,20 +810,20 @@ Avoid numerous competing hues or bright environmental accents.
 ## Composition
 
 * **Format:** Vertical 9:16.
-* **Framing:** Full-body character illustration, showing the complete figure from the top of the head to the soles of the boots.
-* **Character Scale:** The complete character occupies approximately 75–85% of the image height.
+* **Framing:** Half-body character illustration, showing the figure from the top of the head to slightly below the waist.
+* **Character Scale:** The visible half-body occupies approximately 90–95% of the image height and 70–85% of the useful image width. The head sits close to the upper boundary without touching it, while the shoulders and coat approach the lateral boundaries without being clipped.
 * **Pose:** Static, restrained, balanced, and clearly readable.
 * **Silhouette:** Simple, elegant, socially coded, and identifiable.
 * **Focal Point:** Eyes and central facial features.
-* **Secondary Focus:** The complete costume silhouette, hair framing the face, collar, chest structure, and stance.
-* **Tertiary Focus:** One meaningful insignia, tool, fastening, accessory, footwear shape, or environmental anchor.
-* **Low-Priority Areas:** Minor garment folds, secondary boot details, distant architecture, and peripheral scenery.
-* **Negative Space:** Quiet, uncluttered, and asymmetrically balanced.
+* **Secondary Focus:** Hair framing the face, collar, shoulder silhouette, chest structure, hands, and waist-level equipment.
+* **Tertiary Focus:** One meaningful fastening, accessory, equipment mark, or environmental anchor.
+* **Low-Priority Areas:** Minor garment folds, lower coat shapes, distant architecture, and peripheral scenery.
+* **Negative Space:** Minimal, quiet, uncluttered, and asymmetrically balanced. Do not reduce the character to create additional scenic space.
 * **Perspective:** Natural eye-level or slightly low eye-level view.
-* **Cropping:** Do not crop the head, hair, shoulders, elbows, hands, dress hem, legs, ankles, boots, or feet. Preserve a small visible margin beneath both feet.
-* **Environment Placement:** The location should frame and support the figure without obscuring the silhouette.
+* **Cropping:** Do not crop the head, hair, shoulders, elbows, hands, or essential equipment. The intentional lower crop must fall slightly below the waist and cross only a continuous garment mass, never a joint or identity-defining object.
+* **Environment Placement:** The location should appear only in the narrow spaces behind and around the enlarged figure, framing and supporting it without obscuring the silhouette.
 
-Avoid partial-body framing, dynamic action poses, extreme perspective, dramatic foreshortening, wide gestures, theatrical movement, or complex cinematic framing.
+Avoid tight headshots, chest-only framing, knee-up framing, full-body framing, dynamic action poses, extreme perspective, dramatic foreshortening, wide gestures, theatrical movement, or complex cinematic framing.
 
 ---
 
@@ -822,9 +838,9 @@ Favor restrained poses such as:
 * shoulders slightly lowered from fatigue;
 * body turned in a subtle three-quarter angle;
 * head turned slightly away from the torso;
-* weight resting unevenly on one leg;
+* a subtle three-quarter torso turn suggesting an uneven but controlled stance outside the frame;
 * controlled upright posture;
-* both legs and both feet clearly visible, with a grounded and readable stance;
+* both shoulders, arms, and hands clearly readable within the half-body composition;
 * minimal movement.
 
 Avoid:
@@ -847,22 +863,21 @@ The pose should communicate personality through restraint.
 Follow this strict detail distribution:
 
 * **Face and eyes:** 100% detail.
-* **Hair near the face:** 70% detail.
-* **Neck, collar, and hands:** 50% detail.
-* **Primary upper garment structure:** 45% detail.
-* **Meaningful accessory or insignia:** 35% detail.
-* **Chest, torso, and upper coat layers:** 35% detail.
-* **Primary environmental anchor:** 25% detail.
-* **Skirt, legs, and major lower-body shapes:** 25% detail.
-* **Boots and grounded foot placement:** 22% detail.
-* **Secondary environmental cues:** 15% detail.
-* **Outer silhouette and peripheral garment edges:** 12% detail.
-* **Distant environment:** 8% detail.
-* **Peripheral background:** 5% detail.
+* **Hair near the face:** 50–55% detail.
+* **Neck, collar, and leading hand:** 35–40% detail.
+* **Secondary hand and important equipment:** 30–35% detail.
+* **Torso, coat, and upper garment masses:** 25–30% detail.
+* **Narrative light, smoke, or occult effect:** 20–25% detail.
+* **Lower torso, waist, and coat shapes approaching the crop:** 18–22% detail.
+* **Primary environmental anchor:** 15–20% detail.
+* **Outer silhouette and peripheral garment edges:** 10–15% detail.
+* **Secondary environmental cues:** 8–12% detail.
+* **Distant environment:** 5–8% detail.
+* **Peripheral background:** 3–5% detail.
 
 Do not apply equal detail across the entire image.
 
-The reduction of detail away from the face must be clearly visible.
+The reduction of detail away from the face must be immediate and clearly visible. The face must not merely be sharper than the rest; the surrounding figure and location must use a fundamentally broader, more geometric construction.
 
 The clothing must remain legible without becoming intricately rendered.
 
@@ -932,15 +947,22 @@ Strictly avoid:
 * overly attractive fashion-model expressions;
 * perfectly symmetrical faces;
 * uniformly sharp edges;
-* cropped feet;
-* hidden footwear;
-* partial-body or knee-up framing.
+* uniform finish across face, hair, body, costume, equipment, and background;
+* detailed hair strands outside a few face-framing accents;
+* repeated local texture used to describe fabric, leather, metal, stone, or architecture;
+* simplification achieved only through blur, darkness, haze, or missing anatomy;
+* fully modeled limbs, garments, equipment, or architecture;
+* cropped head, hair, shoulders, elbows, hands, or essential equipment;
+* arbitrary cropping through a joint or identity-defining object;
+* tight headshot, chest-only, knee-up, or full-body framing.
+* small character surrounded by excessive background or empty space;
+* scenic composition in which the environment occupies more visual area or importance than the character.
 
 ---
 
 ## Final Visual Target
 
-The final image should resemble a stylized professional full-body character illustration created for a mature narrative game, occult mystery, political fantasy, or industrial dark-fantasy setting with its own authored visual identity.
+The final image should resemble a stylized professional half-body character illustration created for a mature narrative game, occult mystery, political fantasy, or industrial dark-fantasy setting with its own authored visual identity. Its defining formal contrast is a controlled, expressive face surrounded by an increasingly geometric construction of hair, upper body, costume, equipment, atmosphere, and architecture.
 
 It must feel:
 
@@ -962,7 +984,7 @@ It must feel:
 * original rather than derivative;
 * highly focused on the face.
 
-The complete body must be part of the design statement. The pose, dress silhouette, exposed legs, travel accessories, and boots should read as one cohesive full-body shape, with slightly stylized proportions and clear graphic rhythm. The feet must feel planted on the train platform rather than fading into the background.
+The complete visible half-body must be part of the design statement. Head, shoulder silhouette, torso turn, arms, hands, garment layers, and essential equipment should read as one cohesive waist-up shape with slightly stylized proportions and clear graphic rhythm. The planned crop below the waist must feel deliberate and supported by the surrounding environmental planes.
 
 The costume design should suggest an original dark industrial-fantasy world defined by:
 
@@ -993,17 +1015,19 @@ The final result must prioritize:
 * restrained visible brushwork;
 * minimal blending;
 * simplified hair masses;
+* three to five interlocking upper-body planes;
+* tapered geometric arm segments with readable shoulders, elbows, wrists, and hands;
 * industrial-aristocratic costume silhouettes;
-* abstract clothing shapes;
+* three to five abstract overlapping clothing shapes;
 * socially readable tailoring;
-* a recognizable but incomplete location;
+* a recognizable but incomplete location built from three to six faceted silhouettes;
 * one dominant environmental anchor;
 * minimal contextual props;
 * selective sharp edges;
 * soft outer contours;
 * muted earth-tone color harmony;
 * atmospheric integration between figure and environment;
-* a strong contrast between the resolved face and the simplified but fully readable body and background;
-* and an uncropped head-to-toe silhouette with visible boots and grounded feet.
+* a strong, immediately visible contrast between the fully resolved face and the low-finish but structurally readable geometric body, costume, equipment, effects, and background;
+* and an intentional waist-up silhouette with the complete head, shoulders, arms, hands, and essential equipment visible.
 
-The image should look as though it was created with a small number of deliberate brushstrokes, not through exhaustive rendering.
+The image should look as though the face received the final deliberate pass while everything around it was intentionally solved with a small number of large, authored shapes—not through exhaustive rendering and not through accidental incompleteness.
