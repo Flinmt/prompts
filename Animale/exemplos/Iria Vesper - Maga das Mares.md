@@ -6,23 +6,24 @@ Define the character below. The rendering system will translate these traits int
 
 * **Subject Identity:** Iria Vesper, uma maga costeira de 22 anos que interpreta correntes mágicas para orientar embarcações por mares encantados. Filha de pescadores, é curiosa, espirituosa e carrega a responsabilidade de encontrar uma cidade submersa ligada ao desaparecimento de sua irmã.
 
-* **Pose & Attitude:** Pose de corpo inteiro em três quartos enquanto conduz uma fita de água entre as mãos separadas. A mão esquerda sustenta um pequeno foco concha em uma empunhadura simples; a direita permanece aberta com cinco dedos visíveis. Uma perna avança e recebe o peso, enquanto a outra se mantém atrás com o calcanhar discretamente elevado, ambos os pés inteiros e legíveis. A curva dos braços, do quadril e da água conduz o olhar de volta ao rosto, cuja expressão mistura concentração e esperança.
+* **Pose & Attitude:** Pose enquadrada até os joelhos em três quartos enquanto conduz uma fita de água entre as mãos separadas. A mão esquerda sustenta um pequeno foco concha em uma empunhadura simples; a direita permanece aberta com cinco dedos visíveis. A direção dos quadris e das coxas sugere um passo suave. A curva dos braços, do quadril e da água conduz o olhar de volta ao rosto, cuja expressão mistura concentração e esperança.
 
 * **Face & Hair:** Rosto redondo e maduro com bochechas suaves, pele oliva clara, olhos turquesa de desenho individualizado e sardas discretas sobre o nariz. Cabelo azul-negro curto e ondulado, construído em mechas largas com reflexos verde-azulados, além de uma franja lateral que não cobre os olhos.
 
-* **Body & Silhouette:** Baixa, corpo compacto e macio, ombros estreitos, quadris mais largos e pernas curtas e firmes, mantendo proporções anime maduras e naturais. A transferência de peso permanece coerente dos quadris aos tornozelos. Mangas amplas, painéis de saia e a fita de água criam uma silhueta ondulante, encerrada por botas marítimas compactas totalmente visíveis.
+* **Body & Silhouette:** Baixa, corpo compacto e macio, ombros estreitos, quadris mais largos e coxas curtas e firmes, mantendo proporções anime maduras e naturais. A transferência de peso permanece coerente do torso aos joelhos. Mangas amplas, painéis de saia e a fita de água criam uma silhueta ondulante até o corte inferior.
 
-* **Outfit & Gear:** Usa vestido-túnica azul-petróleo profundo dividido em painéis até a metade das panturrilhas, sobreposição curta azul-negra, leggings escuras, botas marítimas e faixa de tecido cinza-violeta na cintura. As mangas amplas formam duas massas assimétricas, mas terminam antes dos pulsos; os painéis inferiores repetem a forma de onda com dobras mais amplas e menos detalhadas. Seus elementos principais são o foco em forma de concha e um pingente simples de vidro marinho.
+* **Outfit & Gear:** Usa vestido-túnica azul-petróleo profundo dividido em painéis que continuam além do corte pouco abaixo dos joelhos, sobreposição curta azul-negra e faixa de tecido cinza-violeta na cintura. As mangas amplas formam duas massas assimétricas, mas terminam antes dos pulsos; os painéis inferiores repetem a forma de onda com dobras mais amplas e menos detalhadas. Seus elementos principais são o foco em forma de concha e um pingente simples de vidro marinho.
 
 * **Power & Signature Motif:** Manipula uma única fita de água sobrenatural que forma uma curva entre as mãos e repete um motivo de espiral marítima presente na faixa da cintura.
 
 * **Lighting & Focal Glow:** Luz ambiente fria e profunda vinda do mar ao entardecer. A fita de água emite um brilho coral-rosado concentrado, criando underlight cromático nos dedos, palmas, queixo e bochechas, além de reflexos violetas e turquesa nas mechas mais próximas. O fundo não possui outro brilho competitivo.
 
-* **Environment & Compositional Backdrop:** Varanda de um farol sobre o mar ao anoitecer. Moldura circular da janela, painéis do vestido e uma fita larga de água formam uma composição espiralada ao redor do corpo inteiro, mantendo mãos e botas livres e retornando ao rosto. Uma vela distante funciona como único símbolo narrativo. Parapeito baixo cria o primeiro plano, janela e água formam o intermediário, e horizonte marinho ocupa o distante. O brilho coral-rosado colore parte da moldura e conecta magia, figura e ambiente.
+* **Environment & Compositional Backdrop:** Varanda de um farol sobre o mar ao anoitecer. Moldura circular da janela, painéis do vestido e uma fita larga de água formam uma composição espiralada ao redor da figura até os joelhos, mantendo as mãos livres e retornando ao rosto. Uma vela distante funciona como único símbolo narrativo. Parapeito baixo cria o primeiro plano, janela e água formam o intermediário, e horizonte marinho ocupa o distante. O brilho coral-rosado colore parte da moldura e conecta magia, figura e ambiente.
 
 * **Color Palette:** Azul-petróleo profundo como primária 60%, azul-negro e cinza-violeta como secundária 30%, coral-rosado luminoso como acento 10% aplicado aos olhos, pingente e fita de água.
 
 ---
+
 
 ## Technical Rendering Engine (STRICT & FIXED — DO NOT MODIFY)
 
@@ -97,7 +98,7 @@ Use the following relative hierarchy:
 * **Hands, power source, and upper torso:** 65–75%.
 * **Primary equipment or motif:** 60–70%.
 * **Waist and lower costume:** 45–55%.
-* **Legs and footwear:** 35–50%.
+* **Hips, thighs, and knee-crop area:** 35–50%.
 * **Peripheral fabric, fur, hair, and effects:** 20–35%.
 * **Narrative symbols and atmospheric background:** 15–25%.
 
@@ -114,7 +115,7 @@ Simplify repeated:
 
 Group small elements into larger readable design clusters.
 
-Preserve complete anatomical and costume readability across the entire figure, but reduce small-scale rendering, edge sharpness, fold count, and material definition progressively away from the face.
+Preserve complete anatomical and costume readability across the visible knee-up figure, but reduce small-scale rendering, edge sharpness, fold count, and material definition progressively away from the face.
 
 Use large anime color and shadow blocks with selective painterly modeling instead of dense texture or uniform micro-rendering.
 
@@ -122,7 +123,7 @@ Keep magic effects graphic, clean, and sparse.
 
 If complexity increases, broaden peripheral effects and lower-body rendering first, then group secondary costume detail and distant background forms.
 
-Never simplify the character's identity, facial finish, full-body anatomy, hand structure, foot placement, or principal motif before secondary decoration.
+Never simplify the character's identity, facial finish, visible anatomy, hand structure, knee-crop integrity, or principal motif before secondary decoration.
 
 ---
 
@@ -214,17 +215,17 @@ Avoid:
 
 * **Rule:** Dynamic anime RPG key-art asymmetry.
 * **Aspect Ratio:** Vertical 9:16.
-* **Framing:** Full-body composition from the top of the hair to the soles of the footwear. Keep the complete head, both hands, hips, knees, lower legs, feet, and the principal weapon, instrument, artifact, or power source visible inside the frame.
-* **Character Scale:** The complete figure generally occupies 82–92% of the image height, while leaving enough breathing room above the hair and below the feet for movement, fabric, equipment, and focal effects.
+* **Framing:** Knee-up composition from the top of the hair to the knees or slightly below them. Keep the complete head, both hands, torso, hips, visible thighs, knees, and the principal weapon, instrument, artifact, or power source inside the frame. Let the lower crop pass through a continuous garment or thigh area, never directly through a joint, hand, or important equipment.
+* **Character Scale:** The visible knee-up figure generally occupies 90–95% of the image height, while leaving controlled breathing room above the hair and around the lower crop for movement, fabric, equipment, and focal effects.
 * **Placement:** Choose left third, right third, or near-center asymmetry according to pose direction, gaze, silhouette, weapon, instrument, magic flow, and background needs.
 * **Camera:** Dramatic eye level or slight low angle without extreme perspective distortion.
 * **Focal Hierarchy:** Face and eyes first; hair and facial framing second; hands, upper torso, weapon, instrument, or power source third; lower body and costume readable but more broadly painted; peripheral effects and background last.
-* **Negative Space:** Preserve clean space around the face, hands, hair silhouette, elbows, outer leg contour, feet, and main gesture.
+* **Negative Space:** Preserve clean space around the face, hands, hair silhouette, elbows, outer thigh contour, knee-crop area, and main gesture.
 * **Depth:** Maintain clear foreground, character, and background layers.
 
 Do not default every character to the same side.
 
-Balance the complete figure with one dominant compositional surround built from environment, fabric, fur, natural forms, light, or power and placed according to the pose, gaze, and action line.
+Balance the knee-up figure with one dominant compositional surround built from environment, fabric, fur, natural forms, light, or power and placed according to the pose, gaze, and action line.
 
 Use diagonals, triangular structures, cape flow, hair movement, fabric, magic, or symbolic forms to lead the eye back to the face.
 
@@ -233,9 +234,9 @@ Avoid:
 * centered passport composition;
 * extreme foreshortening;
 * complex lens distortion;
-* cropped hair, head, hands, knees, lower legs, or feet;
+* cropped hair, head, hands, hips, or important equipment;
 * figure extending beyond the canvas;
-* feet hidden by framing, fog, fabric, effects, or foreground objects;
+* accidental crop directly through a knee joint or important silhouette feature;
 * tiny distant character with excessive empty space;
 * background shapes tangent to facial or hand contours.
 
@@ -258,8 +259,8 @@ Use:
 * subtle shoulder-hip counterpose;
 * separated arms;
 * readable torso;
-* clearly connected hips, knees, ankles, and feet;
-* a stable or intentionally airborne full-body stance;
+* clearly connected torso, waist, hips, thighs, and knees;
+* a stable, intentional knee-up body gesture;
 * visible hands;
 * simple hand gestures;
 * controlled movement in clothing, hair, cape, weapon, instrument, or magic.
@@ -295,9 +296,9 @@ Use:
 * traceable arms from shoulder to wrist;
 * clear elbow positions;
 * natural hand-wrist alignment;
-* coherent shoulder, torso, waist, hip, knee, ankle, and foot relationships;
-* traceable legs from hips to footwear;
-* grounded foot placement or clearly readable airborne leg logic.
+* coherent shoulder, torso, waist, hip, thigh, and knee relationships;
+* traceable visible legs from hips to the lower crop;
+* an intentional crop at the knees or slightly below, without implying broken anatomy.
 
 Avoid:
 
@@ -310,8 +311,8 @@ Avoid:
 * anatomy merged with clothing;
 * anatomy merged with background shapes;
 * fused or ambiguous legs;
-* broken knees or ankles;
-* duplicated, missing, or cropped feet;
+* broken or fused knees;
+* duplicated thighs or accidental joint crops;
 * extreme perspective.
 
 Do not let hair, ribbons, fabric, weapons, magic, symbols, or background forms intersect hands or fingers.
@@ -471,11 +472,11 @@ Avoid particle overload, multiple simultaneous powers, giant spell circles, broa
 
 ## Background Storytelling
 
-Use a graphic, semi-painterly anime fantasy environment designed together with the full-body figure rather than as separate scenery.
+Use a graphic, semi-painterly anime fantasy environment designed together with the knee-up figure rather than as separate scenery.
 
 Build the background from:
 
-* one dominant compositional surround acting as a countershape to the complete character silhouette;
+* one dominant compositional surround acting as a countershape to the visible character silhouette;
 * one secondary symbolic lore element;
 * two or three clearly separated depth planes;
 * broad architecture, natural form, shadow, cloud, or shaped-light masses;
@@ -495,7 +496,7 @@ Possible elements include:
 * symbolic weapons or instruments;
 * simplified celestial shapes.
 
-Use the dominant surround to frame the full figure, oppose or continue the principal action line, and curve, rise, fall, or flow back toward the face.
+Use the dominant surround to frame the knee-up figure, oppose or continue the principal action line, and curve, rise, fall, or flow back toward the face.
 
 It may combine environment, fabric, fur, hair, natural forms, magic, shadow, or shaped light into one readable movement system around the body.
 
@@ -512,9 +513,8 @@ Avoid sharp lines, symbols, props, or high-contrast shapes directly behind:
 * hands;
 * elbows;
 * waist;
-* knees;
-* ankles;
-* feet;
+* hips;
+* lower crop;
 * finger silhouettes.
 
 The background must complete the silhouette, reinforce the gesture, support lore and mood, and feel painted in the same visual language as the character without competing with the focal hierarchy.
@@ -524,7 +524,7 @@ The background must complete the silhouette, reinforce the gesture, support lore
 ## Anime Rendering Standard
 
 * **Style:** Dramatic semi-painterly anime fantasy key art with mature facial construction and a concentrated luminous focus.
-* **Lineart:** Selective expressive anime linework with variable weight, strongest around eyes and facial accents; controlled around hair, fingers, upper torso, and key equipment; increasingly reduced, colored, broken, or lost across lower costume, legs, footwear, peripheral fabric, fur, effects, deep shadow, and atmosphere.
+* **Lineart:** Selective expressive anime linework with variable weight, strongest around eyes and facial accents; controlled around hair, fingers, upper torso, and key equipment; increasingly reduced, colored, broken, or lost across lower costume, thighs, the knee-crop area, peripheral fabric, fur, effects, deep shadow, and atmosphere.
 * **Shading:** Large graphic cel-shaped value masses combined with precise painterly chromatic modeling on the face and hair, medium modeling on hands and upper torso, and broader grouped transitions across the lower body, peripheral costume, and effects.
 * **Lighting:** Deep ambient shadow structure with one shaped local light source casting jewel-toned illumination across the focal area.
 * **Edges:** Crisp selected facial and eye edges, controlled hair and hand edges, medium upper-body edges, fewer hard edges across the waist and legs, and soft, broken, or dissolved peripheral and atmospheric edges.
@@ -593,10 +593,8 @@ Strictly avoid:
 * missing fingers;
 * fused or distorted hands;
 * hidden hands;
-* cropped feet;
-* missing feet;
 * fused legs;
-* ambiguous knees or ankles;
+* ambiguous or accidentally cropped knees;
 * hands touching the face;
 * overlapping hands;
 * tangled limbs;
@@ -618,12 +616,12 @@ Strictly avoid:
 If generation complexity increases:
 
 1. broaden peripheral effects, fabric, fur, and distant environmental forms;
-2. reduce lower-body fold count and material micro-detail while preserving leg and footwear readability;
+2. reduce lower-body fold count and material micro-detail while preserving hip, thigh, and knee-crop readability;
 3. group secondary costume ornaments;
 4. simplify magical particles;
-5. preserve character identity, facial finish, full-body anatomy, hand and foot accuracy, silhouette, local-light logic, palette, and authored anime appeal.
+5. preserve character identity, facial finish, visible anatomy, hand accuracy, intentional knee crop, silhouette, local-light logic, palette, and authored anime appeal.
 
-Never solve complexity by hiding hands or feet, cropping the face or body, changing the requested face shape, or removing an identity-defining trait.
+Never solve complexity by hiding hands, cropping the face or important equipment, placing the lower crop through a joint, changing the requested face shape, or removing an identity-defining trait.
 
 ---
 
@@ -649,19 +647,19 @@ Prioritize:
 * exact user-defined identity;
 * mature and individualized anime facial construction;
 * correct hands;
-* correct legs and feet;
-* clean full-body silhouette;
+* correct visible hips, thighs, and knees;
+* clean knee-up silhouette;
 * one action line;
 * controlled asymmetry;
 * deep-base 60/30/10 color harmony;
 * one iconic prop or power source;
 * one localized shaped light;
 * chromatic interaction between light, face, hands, hair, and costume;
-* atmospheric narrative surround integrated with the full-body gesture;
+* atmospheric narrative surround integrated with the knee-up gesture;
 * hierarchical finish with maximum resolution on face and eyes;
 * readable but more broadly painted torso, lower body, clothing, and effects;
 * selective variable-weight anime linework;
 * graphic shadow masses with selective painterly rendering;
 * strong character-background separation.
 
-The image must preserve a complete full-body composition from the top of the hair to the soles of the footwear. The face, eyes, and hair must receive the highest finish; hands and upper torso remain clearly resolved; waist, legs, footwear, peripheral clothing, and effects remain anatomically and materially understandable through broader shapes, fewer hard edges, and progressively lower small-scale detail. It should never drift into photorealism, 3D rendering, generic gacha polish, gritty western fantasy, uniformly unfinished anatomy, or overloaded anime ornamentation.
+The image must preserve a deliberate knee-up composition from the top of the hair to the knees or slightly below. The face, eyes, and hair must receive the highest finish; hands and upper torso remain clearly resolved; waist, hips, visible thighs, knee-crop area, peripheral clothing, and effects remain anatomically and materially understandable through broader shapes, fewer hard edges, and progressively lower small-scale detail. The crop must feel designed rather than accidental and must never pass directly through a joint, hand, or important equipment. It should never drift into photorealism, 3D rendering, generic gacha polish, gritty western fantasy, uniformly unfinished anatomy, or overloaded anime ornamentation.

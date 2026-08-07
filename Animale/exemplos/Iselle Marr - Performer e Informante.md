@@ -4,25 +4,23 @@
 
 Define the character below. The rendering system will translate these traits into mature, dramatic, semi-painterly anime fantasy key art:
 
-* **Subject Identity:** Selene Arclight, uma cavaleira humana de 26 anos ligada a uma ordem que patrulha rotas entre ilhas flutuantes. Nascida entre artesãos, tornou-se capitã jovem por sua serenidade sob pressão e atua como protetora relutante de uma relíquia celeste.
+* **Subject Identity:** Iselle Marr, uma cantora e presença de palco de um cabaré elegante dos distritos noturnos, revelada como informante relutante. Pele morena, entre 20 e 30 anos, cabelos platinados longos e lisos que a tornam reconhecível em qualquer salão. Originária dos distritos baixos, subiu pela vida noturna por cálculo e talento: vende intimidade, mas não confia em ninguém. Por baixo da pose sedutora há exaustão e cálculo, e a rede de informações é o que a protege.
 
-* **Pose & Attitude:** Pose assimétrica enquadrada até os joelhos, em três quartos, no instante em que ergue uma espada curta na diagonal para interceptar luz vinda do alto. A mão livre permanece aberta e visível ao lado do torso, com cinco dedos claramente separados. Ombros, quadris e coxas formam um contraponto controlado que sugere avanço, e ela olha para além da lâmina com determinação calma.
+* **Pose & Attitude:** Corpo em três quartos apoiado com fluidez contra uma parede, enquadrado da cabeça até os joelhos ou pouco abaixo deles. A mão esquerda segura um pirulito cromático junto aos lábios, em gesto contido e provocador; a mão direita permanece aberta, apoiada sobre a cintura, com cinco dedos visíveis. Ombros e quadris formam um leve contraponto que sugere cansaço contido. O olhar direto e cansado, ligeiramente lateral, retorna pelo contorno do braço até o rosto.
 
-* **Face & Hair:** Rosto maduro em formato de coração, pele castanha clara, olhos azul-celeste de pálpebras superiores marcadas, nariz pequeno mas estruturalmente definido e expressão confiante sem sorriso exagerado. Cabelo branco-prateado preso em uma trança alta, dividido em grandes mechas com reflexos azul-violeta que acompanham a diagonal da espada.
+* **Face & Hair:** Rosto maduro alongado e angular, maçãs do rosto altas, nariz reto e mandíbula definida. Pele morena, olhos azuis fatigados e sedutores, com leve sombra sob as pálpebras para comunicar cansaço. Cabelo platinado longo e liso, construído em grandes mechas com reflexos violeta-esfumaçados e poucos fios soltos junto ao rosto. Maquiagem leve e quase imperceptível, com um brilho contido no olhar.
 
-* **Body & Silhouette:** Alta e atlética, ombros definidos, quadris equilibrados e coxas longas, com proporções anime elegantes sem alongamento extremo. O apoio percorre claramente torso, quadril e joelhos. A trança alta, uma única placa curva sobre o ombro esquerdo e a capa curta criam a característica principal da silhueta até os joelhos.
+* **Body & Silhouette:** Delgada com curvas suaves, quadris largos e pernas alongadas, com proporções anime maduras e naturais. O apoio percorre claramente torso, quadril e joelhos. Uma única massa alongada de cabelo platinado e a blusa assimétrica criam a principal característica de silhueta até o corte pouco abaixo dos joelhos.
 
-* **Outfit & Gear:** Usa três grandes massas escuras: túnica azul-noturna ajustada e dividida abaixo dos quadris, proteção de prata enegrecida sobre o torso e capa curta índigo profundo. Calças escuras completam a área visível e atravessam de modo contínuo o corte pouco abaixo dos joelhos; uma faixa índigo lateral prolonga a assimetria do ombro esquerdo protegido. Seus elementos principais são a espada curta de guarda circular e um broche solar fosco preso à capa.
+* **Outfit & Gear:** Blusa de palco em marfim envelhecido, de corte assimétrico e decote amplo, com mangas amplas terminando antes dos pulsos. Calça carvão de cintura alta atravessa o corte abaixo dos joelhos como uma única massa inferior contínua. Carvão quente do cabelo e da calça, marfim envelhecido e taupe esfumado criam três grandes massas. Seu único objeto de identidade é o pirulito, um doce barato usado ao mesmo tempo como hábito e provocação.
 
-* **Power & Signature Motif:** Conduz luz celeste pela lâmina. Um único arco em forma de estrela percorre a espada e repete discretamente o motivo circular do broche, sem cobrir rosto ou mãos.
+* **Power & Signature Motif:** Uma única voluta de luz etérea rosada que nasce do pirulito e repete um motivo de estrela de palco disperso na parede, símbolo da máscara de performer e da rede de segredos. O efeito reforça a linha de ação e age como fonte focal sem cobrir rosto ou mãos.
 
-* **Lighting & Focal Glow:** Ambiente noturno azul-petróleo envolvendo a plataforma. A espada projeta luz ciano-dourada de baixo e de lado sobre os dedos, a mandíbula, os olhos, a trança e algumas bordas da armadura; a intensidade cai rapidamente antes de alcançar a capa. Apenas uma passagem curta de rim light separa o ombro direito do céu.
+* **Lighting & Focal Glow:** Luz ambiente baixa do corredor do cabaré, com domínio azul-noturno e sombras profundas. O pirulito emite um brilho rosa-pétala concentrado, criando underlight cromático na ponta do nariz, no queixo, nas palmas dos dedos mais próximos e nas mechas de cabelo contíguas, sem apagar o rosto. A luz cai rapidamente antes de alcançar a blusa; apenas uma passagem curta de rim light separa um ombro da parede.
 
-* **Environment & Compositional Backdrop:** Plataforma de pedra suspensa em um céu noturno. Uma grande asa arquitetônica, a capa e um arco controlado de luz formam uma composição ascendente ao redor da figura até os joelhos, contrapondo a espada e conduzindo o olhar ao rosto sem cobrir as mãos. Uma ilha suspensa funciona como único símbolo narrativo. Borda da plataforma cria o primeiro plano, asa e capa formam o intermediário, e céu com nuvens em grandes blocos ocupa o distante. A luz dourada da lâmina alcança uma aresta da arquitetura e une cenário e gesto.
+* **Environment & Compositional Backdrop:** Corredor nos fundos de um cabaré ao anoitecer. Uma cortina carvão que cai em curva atrás de um dos ombros forma a estrutura dominante envolvente ao redor da figura até os joelhos, conduzindo o olhar ao rosto. Uma estrela de palco solitária dissolve na parede como único símbolo narrativo. A cortina cria o primeiro plano, a parede com a estrela forma o intermediário e o corredor dissipado em luz baixa ocupa o distante. O brilho rosado alcança uma borda da cortina e conecta magia, figura e ambiente.
 
-* **Color Palette:** Azul-noturno e preto azulado como primária 60%, índigo e prata violeta como secundária 30%, ciano-dourado luminoso como acento 10% concentrado nos olhos, broche, guarda e arco de luz.
-
----
+* **Color Palette:** Carvão quente e azul-noturno como primária 60%, unindo calça, cabelo, cortina e sombras; taupe esfumado e marfim envelhecido como secundária 30%; rosa-pétala luminoso como acento 10%, concentrado nos olhos, reflexo no cabelo e voluta do pirulito.
 
 
 ## Technical Rendering Engine (STRICT & FIXED — DO NOT MODIFY)
@@ -663,3 +661,4 @@ Prioritize:
 * strong character-background separation.
 
 The image must preserve a deliberate knee-up composition from the top of the hair to the knees or slightly below. The face, eyes, and hair must receive the highest finish; hands and upper torso remain clearly resolved; waist, hips, visible thighs, knee-crop area, peripheral clothing, and effects remain anatomically and materially understandable through broader shapes, fewer hard edges, and progressively lower small-scale detail. The crop must feel designed rather than accidental and must never pass directly through a joint, hand, or important equipment. It should never drift into photorealism, 3D rendering, generic gacha polish, gritty western fantasy, uniformly unfinished anatomy, or overloaded anime ornamentation.
+
