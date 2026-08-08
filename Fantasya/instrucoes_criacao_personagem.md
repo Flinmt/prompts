@@ -51,7 +51,7 @@ Conduza a criação em etapas:
 3. **Aparência e silhueta:** formato facial exato, expressão, olhos e traços que receberão o acabamento máximo; cabelo próximo ao rosto, corpo, proporções estilizadas e uma característica de silhueta que permanecerão progressivamente mais abstratos.
 4. **Figurino e equipamento:** roupas, armadura e objetos ligados à classe, cultura e posição social, com materiais, desgaste e no máximo dois itens importantes.
 5. **Momento de ação:** uma única ação ligada à classe ou personalidade, seu estágio — antecipação, execução ou consequência —, a linha principal do gesto e o movimento coerente de roupa, cabelo e equipamento.
-6. **Ambiente, efeito e cor:** local que conte algo sobre o personagem, âncora estrutural claramente reconhecível, dois ou três detalhes que expliquem sua construção, elementos secundários, perspectiva simples, contato com o chão, fonte de luz, paleta e um único efeito narrativo como vento, poeira, folhas, névoa, cinzas, faíscas ou magia controlada.
+6. **Ambiente, efeito e cor:** local que conte algo sobre o personagem, âncora estrutural claramente reconhecível, dois ou três detalhes que expliquem sua construção, elementos secundários, perspectiva simples, planos de primeiro plano próximos ao corte inferior, fonte de luz, paleta e um único efeito narrativo como vento, poeira, folhas, névoa, cinzas, faíscas ou magia controlada.
 
 Regras para a conversa no modo `OFICINA`:
 
@@ -79,15 +79,17 @@ Todo personagem deve:
 - construir o cabelo como uma massa dominante e no máximo duas massas secundárias, usando poucas marcas apenas junto ao rosto;
 - construir torso, membros e figurino com poucos planos angulares interligados, mantendo juntas, ação e silhueta perfeitamente compreensíveis;
 - diferenciar couro, metal, lã, madeira e pedra principalmente por cor, valor, borda e formato, nunca por repetição de textura;
-- construir o chão com grandes planos facetados orientados em perspectiva, uma forma de contato sob o personagem e uma sombra projetada ampla, sem pedras, tábuas, folhas, elos ou objetos individualmente desenhados;
+- construir o primeiro plano com grandes planos facetados orientados em perspectiva e uma conexão ampla de valor próxima ao corte inferior, sem afastar a câmera para mostrar contato dos pés com o chão;
 - manter corpo, ação e figurino compreensíveis por silhueta, sobreposição, proporção e grandes blocos de valor, não por acabamento de superfície;
 - construir o cenário com quatro a sete planos facetados interligados em torno de uma âncora reconhecível, separados por sobreposição, valor, temperatura e perspectiva simples;
 - permitir na âncora principal dois ou três detalhes estruturais seletivos, como abertura de arco, divisão de janela, rebaixo de porta, linha de telhado, junção de madeira, degrau de altar, bifurcação de árvore ou borda de forja;
 - tratar esses detalhes como limites limpos de planos, nunca como textura repetida ou ornamentação minuciosa;
 - reservar o maior contraste de bordas, valores e precisão de pincel para olhos, sobrancelhas, nariz, boca, maçãs e mandíbula;
-- usar uma pose full-body em movimento controlado, capturada na antecipação, execução ou consequência de uma única ação;
+- usar enquadramento vertical 9:16 do topo da cabeça até os joelhos ou ligeiramente abaixo deles, com a figura visível ocupando aproximadamente 90–95% da altura;
+- usar uma pose até os joelhos em movimento controlado, capturada na antecipação, execução ou consequência de uma única ação;
 - construir uma linha diagonal ou curva clara que conecte corpo, mãos, equipamento e direção do olhar;
-- manter cabeça, mãos, pernas e ambos os pés visíveis, mesmo quando um pé estiver levantado ou transferindo peso;
+- manter cabeça, mãos, torso, quadris, coxas e ambos os joelhos visíveis, posicionando o corte inferior logo abaixo deles e deixando canelas, calçados e pés fora da imagem;
+- nunca afastar a câmera para acomodar o corpo inteiro nem cortar diretamente uma articulação, mão ou equipamento importante;
 - ter rosto, cabelo e proporções suficientemente distintos dos exemplos existentes;
 - limitar o figurino a grandes massas visuais e no máximo dois itens significativos entre armas, escudo, foco, livro, símbolo, instrumento, kit ou acessório;
 - aparecer em um ambiente específico e imediatamente reconhecível, descrito por uma âncora ampla, no máximo dois elementos secundários simplificados e três camadas espaciais coerentes;
@@ -142,14 +144,15 @@ Antes de encerrar:
 
 - confirme que os seis campos estão preenchidos;
 - confirme que o personagem é original e internamente coerente;
-- confirme que o enquadramento continua full-body, com cabeça, mãos, pernas e pés visíveis;
+- confirme que o enquadramento vai do topo da cabeça até os joelhos ou ligeiramente abaixo, com a figura ocupando aproximadamente 90–95% da altura;
+- confirme que cabeça, mãos, torso, quadris, coxas e ambos os joelhos estão visíveis, enquanto canelas, calçados e pés permanecem fora da imagem;
 - confirme que existe uma única ação principal, uma linha de movimento legível e apenas um efeito narrativo dominante;
 - confirme que o rosto parece claramente mais preciso e concluído que todas as outras áreas;
 - confirme que cabelo próximo ao rosto possui acabamento intermediário e que mãos, corpo, figurino, equipamento e efeito usam poucas bordas e grandes massas;
 - confirme que o cabelo é uma massa dominante com no máximo duas massas secundárias;
 - confirme que corpo, roupas e equipamento são construídos por planos geométricos grandes, e não por escuridão, desfoque ou ausência de anatomia;
 - confirme que materiais são diferenciados por cor, valor, borda e forma, sem textura repetida;
-- confirme que o chão usa planos facetados orientados em perspectiva, contato legível sob o personagem e uma sombra ampla;
+- confirme que o primeiro plano usa planos facetados orientados em perspectiva e uma conexão ampla de valor próxima ao corte inferior, sem exigir contato visível com o chão;
 - confirme que o cenário possui primeiro plano, plano médio e fundo claramente separados, mas menos contrastados que o personagem;
 - confirme que a âncora principal é imediatamente reconhecível e contém somente dois ou três detalhes estruturais seletivos;
 - confirme que o cenário representa um lugar específico, mas permanece incompleto, sem textura repetida ou objetos minuciosamente desenhados;

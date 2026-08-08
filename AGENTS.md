@@ -6,7 +6,7 @@ This repository is a library of Markdown prompts for fantasy character and creat
 
 - `Animale/`: full-body semi-painterly anime character prompts.
 - `Astrael/`: geometric half-body character prompts.
-- `Fantasya/`: geometric full-body character prompts; `Fantasya/Criaturas/` contains the creature variant.
+- `Fantasya/`: geometric knee-up character prompts; `Fantasya/Criaturas/` contains the full-creature variant.
 
 Each system normally contains a canonical `*_template.md`, an `instrucoes_criacao_*.md` workflow, `exemplos/` for approved reference outputs, and `personagens/` for generated character prompts. Keep new content in the matching system; do not use root-level files for finished prompts.
 

@@ -1,12 +1,12 @@
-# Stylized Painterly Full-Body Character Splash Art (Geometric Medieval-Fantasy Game Style)
+# Stylized Painterly Knee-Up Character Splash Art (Geometric Medieval-Fantasy Game Style)
 
 ## [CHARACTER DATA INPUT]
 
-Define the subject below. The rendering system will translate these traits directly into the stylized geometric full-body splash-art engine:
+Define the subject below. The rendering system will translate these traits directly into the stylized geometric knee-up splash-art engine:
 
 * **Subject Identity:** [e.g., A 31-year-old female elven border mage and former royal cartographer with pale olive skin, a lean build, and a severe, quietly elegant presence]
 
-* **Pose & Attitude:** [Describe one clear action beat captured at its beginning, midpoint, or aftermath. Use a readable diagonal gesture, controlled body rotation, and a role-specific action such as advancing, drawing a weapon, raising a shield, casting, performing a ritual, tracking, or manipulating equipment. Keep the complete body visible and the expression psychologically specific.]
+* **Pose & Attitude:** [Describe one clear action beat captured at its beginning, midpoint, or aftermath. Use a readable diagonal gesture, controlled body rotation, and a role-specific action such as advancing, drawing a weapon, raising a shield, casting, performing a ritual, tracking, or manipulating equipment. Keep the complete knee-up figure, both hands, and role-defining equipment visible; make the lower crop intentional and the expression psychologically specific.]
 
 * **Face & Hair:** [e.g., Long angular face, high pronounced cheekbones, narrow jawline, straight nose, subtle asymmetry around the mouth, pale sage-green eyes, dark chestnut hair tied into a low ponytail with only a few loose strands framing the face]
 
@@ -20,9 +20,9 @@ Define the subject below. The rendering system will translate these traits direc
 
 ## Technical Rendering Engine (STRICT & FIXED — DO NOT MODIFY)
 
-A vertical 9:16 full-body fantasy character splash illustration rendered in a stylized painterly style for an original narrative role-playing game.
+A vertical 9:16 knee-up fantasy character splash illustration rendered in a stylized painterly style for an original narrative role-playing game.
 
-The composition captures one controlled moment of action while showing the entire figure from the top of the head to the soles of the footwear, with clear breathing room around the moving silhouette and beneath the lowest foot.
+The composition captures one controlled moment of action while showing the figure from the top of the head to the knees or slightly below them, with clear breathing room around the moving silhouette and lower crop. Keep the knees fully visible near the bottom edge; lower legs, ankles, footwear, and feet remain intentionally outside the canvas.
 
 The image must combine minimal geometric construction, controlled visible brushwork, deliberately stylized anatomy, a distinctly more resolved focal face, an original grounded medieval-fantasy costume language, and a simplified but structurally recognizable environmental background.
 
@@ -58,11 +58,11 @@ Do not add unnecessary anatomical detail, fabric texture, minor accessories, com
 
 The face is the most deliberately resolved and finished area by a clear margin.
 
-The geometric simplification must begin immediately outside the central facial features. Hair masses, neck, hands, clothing, equipment, outer silhouette, lower body, and environment must become progressively broader, more faceted, less textured, and less finished while the complete figure, limbs, action, and footwear remain clearly readable.
+The geometric simplification must begin immediately outside the central facial features. Hair masses, neck, hands, clothing, equipment, outer silhouette, visible lower body, and environment must become progressively broader, more faceted, less textured, and less finished while the complete knee-up figure, hands, action, and intentional lower crop remain clearly readable.
 
 Do not extend facial-level edge control, tonal modeling, texture, or small detail into the rest of the character.
 
-The final image should feel like a precisely constructed face emerging from a coherent full-body arrangement of broad geometric planes, created with a small number of confident brush decisions rather than a uniformly polished or naturalistic digital painting.
+The final image should feel like a precisely constructed face emerging from a coherent knee-up arrangement of broad geometric planes, created with a small number of confident brush decisions rather than a uniformly polished or naturalistic digital painting.
 
 The costume should communicate the character's profession, social role, and place within the world primarily through silhouette, proportion, layering, material contrast, and a limited number of meaningful details.
 
@@ -76,7 +76,7 @@ Strictly NO detailed photorealism, NO smooth airbrushed rendering, NO dense pain
 
 Every part of the illustration must follow these principles:
 
-* **Style Signature:** "Stylized full-body fantasy character splash art for an original narrative game; expressive diagonal gesture; large geometric facial and body planes; simplified anatomy; authored proportions; economical brushwork; selective detail; controlled cinematic lighting; one restrained narrative effect; original fantasy costume language; recognizable structured environment; unfinished outer edges."
+* **Style Signature:** "Stylized knee-up fantasy character splash art for an original narrative game; expressive diagonal gesture; large geometric facial and body planes; simplified anatomy; authored proportions; economical brushwork; selective detail; controlled cinematic lighting; one restrained narrative effect; original fantasy costume language; recognizable structured environment; unfinished outer edges."
 
 * **Shape Economy:** "Use the fewest possible shapes needed to describe the character and location. Prefer one strong large shape over several small shapes."
 
@@ -389,7 +389,7 @@ The hair should read clearly from shape, silhouette, and direction alone.
 * Limit accessories to one or two meaningful elements.
 * Avoid excessive seams, buckles, embroidery, armor plates, runes, charms, weapon attachments, and small pouches.
 * Do not allow the costume to become more detailed than the face.
-* Simplify the lower garments, legs, and footwear into strong painterly shapes without dissolving, hiding, or cropping any part of the figure.
+* Simplify the lower garments, hips, visible thighs, and knee-crop area into strong painterly shapes without dissolving or confusing the visible anatomy.
 * The costume must remain original and should not reproduce a specific existing character design.
 
 ### Social Role Variations
@@ -584,7 +584,7 @@ Use:
 
 Within the primary anchor, allow two or three selective structural identifiers, such as an arch opening, window division, doorway recess, roofline, timber joint, altar step, tree fork, forge rim, broken masonry edge, or banner hem. Describe each identifier with one clean plane boundary or short controlled edge, never with repeated texture.
 
-The ground must show a clear orientation in perspective, one contact shape beneath the character, and one broad cast shadow or value connection tying the feet to the location.
+The foreground must show a clear orientation in perspective through broad planes and one value connection near the lower crop, without requiring visible ground contact or pulling the camera back to show the feet.
 
 Avoid small repeated geometry.
 
@@ -815,20 +815,20 @@ Avoid numerous competing hues or bright environmental accents.
 ## Composition
 
 * **Format:** Vertical 9:16.
-* **Framing:** Full-body character illustration, showing the complete figure from the top of the head to the soles of the boots.
-* **Character Scale:** The complete character occupies approximately 75–85% of the image height.
+* **Framing:** Knee-up character illustration, showing the figure from the top of the head to the knees or slightly below them. Keep both knees fully visible close to the lower edge; intentionally exclude most lower legs, ankles, footwear, and feet.
+* **Character Scale:** The visible knee-up character occupies approximately 90–95% of the image height. Do not zoom out to accommodate the full body.
 * **Pose:** A controlled action pose captured at the beginning, midpoint, or aftermath of one role-specific movement.
 * **Silhouette:** Simple, expressive, socially coded, and identifiable, with one dominant diagonal or curved action line.
 * **Focal Point:** Eyes and central facial features.
-* **Secondary Focus:** Face-framing hair and the complete action silhouette, understood through large connected shapes rather than additional finish.
+* **Secondary Focus:** Face-framing hair and the complete visible action silhouette, understood through large connected shapes rather than additional finish.
 * **Tertiary Focus:** Hands, role-defining equipment, clothing flow, torso rotation, and one restrained narrative effect, all rendered with visibly fewer edges and details than the face.
-* **Low-Priority Areas:** Costume surfaces, garment folds, legs, footwear, environmental anchor, distant architecture, and peripheral scenery.
+* **Low-Priority Areas:** Costume surfaces, garment folds, hips, visible thighs, knee-crop area, environmental anchor, distant architecture, and peripheral scenery.
 * **Negative Space:** Uncluttered and asymmetrically balanced around the direction of movement.
 * **Perspective:** Natural eye-level or moderately low three-quarter view, without extreme lens distortion.
-* **Cropping:** Do not crop the head, hair, shoulders, elbows, hands, equipment, garment hems, legs, ankles, footwear, or feet. Preserve a small visible margin beneath the lowest foot.
+* **Cropping:** Do not crop the head, hair, shoulders, elbows, hands, equipment, hips, or important garment features. Place the intentional lower crop immediately below the knees through a continuous garment or leg area, never directly through a joint, hand, or role-defining equipment.
 * **Environment Placement:** The location should frame and support the figure without obscuring the silhouette.
 
-Avoid partial-body framing, uncontrolled action, extreme perspective, severe foreshortening, unreadably wide gestures, theatrical acrobatics, or complex battle-scene framing.
+Avoid waist-up or bust framing, full-body framing, uncontrolled action, extreme perspective, severe foreshortening, unreadably wide gestures, theatrical acrobatics, or complex battle-scene framing.
 
 ---
 
@@ -840,10 +840,10 @@ Favor controlled action beats such as:
 * turning the torso while raising a shield, focus, book, tool, or ritual object;
 * finishing a compact strike, defensive movement, spell, prayer, performance, or alchemical action;
 * tracking something outside the frame while cloak, hair, or loose fabric follows the turn;
-* shifting weight between clearly readable legs while one foot remains grounded;
+* shifting weight between clearly readable hips, thighs, and knees while the lower crop preserves the gesture;
 * using one arm as the leading gesture and the other to stabilize equipment or silhouette;
 * allowing one cloak edge, sash, braid, smoke trail, leaf arc, spark trail, or magical ribbon to echo the main action line;
-* preserving clear hand, weapon, leg, and footwear shapes throughout the movement.
+* preserving clear hand, weapon, hip, thigh, knee, and lower-crop shapes throughout the movement.
 
 Avoid:
 
@@ -852,7 +852,7 @@ Avoid:
 * chaotic multi-action combat poses;
 * theatrical hand gestures without role-specific purpose;
 * fabric moving independently of wind or body motion;
-* full sprinting or high leaping that makes the complete figure difficult to frame;
+* full sprinting or high leaping that makes the knee-up figure difficult to frame;
 * weapons raised toward the viewer;
 * extreme facial or body movement.
 
@@ -870,8 +870,8 @@ Follow this strict detail distribution:
 * **Secondary hand and role-defining symbol, focus, tool, shield, or weapon:** 30–35% detail.
 * **Chest rotation, torso, armor, and primary upper garment structure:** 25–30% detail.
 * **Single narrative effect near the action:** 20–25% detail.
-* **Lower garments, legs, and major lower-body shapes:** 18–22% detail.
-* **Footwear and readable weight placement:** 15–18% detail.
+* **Lower garments, hips, thighs, and major visible lower-body shapes:** 18–22% detail.
+* **Knees and intentional lower-crop area:** 15–18% detail.
 * **Primary environmental anchor:** 25–30% detail through broad structure, not surface finish.
 * **Outer silhouette and peripheral garment edges:** 10–15% detail.
 * **Secondary environmental cues:** 12–18% detail.
@@ -955,15 +955,15 @@ Strictly avoid:
 * overly attractive fashion-model expressions;
 * perfectly symmetrical faces;
 * uniformly sharp edges;
-* cropped feet;
-* hidden footwear;
-* partial-body or knee-up framing.
+* visible footwear or feet caused by unintended full-body framing;
+* cropped or hidden hands;
+* waist-up, bust, or full-body framing.
 
 ---
 
 ## Final Visual Target
 
-The final image should resemble a stylized professional full-body character splash illustration created for a mature medieval-fantasy role-playing game, heroic adventure, political fantasy, ancient mystery, or dark folklore setting with its own authored visual identity.
+The final image should resemble a stylized professional knee-up character splash illustration created for a mature medieval-fantasy role-playing game, heroic adventure, political fantasy, ancient mystery, or dark folklore setting with its own authored visual identity.
 
 It must feel:
 
@@ -986,7 +986,7 @@ It must feel:
 * clearly focused on the face;
 * precisely resolved at the facial features and geometrically simplified everywhere else.
 
-The complete body must be part of the design statement. The pose, costume silhouette, limbs, role-defining equipment, and footwear should read as one cohesive moving full-body shape, with visibly stylized proportions and clear graphic rhythm. At least one foot should visibly carry or transfer weight, and both feet must remain readable rather than fading into the background.
+The complete visible knee-up body must be part of the design statement. The pose, costume silhouette, arms, hands, hips, thighs, knees, and role-defining equipment should read as one cohesive moving shape with visibly stylized proportions and clear graphic rhythm. Weight and movement must remain understandable through shoulder-hip counterpose and visible thigh direction without showing lower legs or feet.
 
 The image should capture one narrative instant: the anticipation, midpoint, or aftermath of a single role-specific action. A diagonal body gesture and one controlled trail of cloth, hair, dust, leaves, ash, sparks, mist, or magic should create splash-art energy without becoming a complete combat scene.
 
@@ -1032,6 +1032,6 @@ The final result must prioritize:
 * controlled color harmony with one moderately stronger accent;
 * atmospheric integration between figure and environment;
 * a clear controlled contrast between the resolved face and the geometrically simplified but fully readable body, costume, equipment, effects, and background;
-* and an uncropped head-to-toe action silhouette with visible footwear and readable weight placement.
+* and an intentional head-to-knees action silhouette with both hands, both knees, role-defining equipment, and readable weight direction.
 
 The face should look intentionally completed. Everything beyond it should look constructed with a small number of deliberate broad brushstrokes, lost edges, grouped values, and incomplete material indications rather than exhaustive rendering.
