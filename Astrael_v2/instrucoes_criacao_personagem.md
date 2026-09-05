@@ -15,7 +15,8 @@ A imagem antiga enviada como exemplo deixou de ser o alvo principal desta revis�
 - Template fixo: `Astrael_v2/astrael_geometrico_template.md`.
 - Fluxo: este arquivo.
 - Personagens: `Astrael_v2/personagens/Nome - Funcao.md`.
-- Exemplos e referências: `Astrael_v2/exemplos/` e `Astrael_v2/referencias/`, quando existirem e seus conteúdos forem aprovados.
+- Exemplos de preenchimento: `Astrael_v2/exemplos/`.
+- Referência visual principal aprovada: `Astrael_v2/referencias/isis_telhado.png`. Use esta imagem com os prompts de geração; o README da pasta explica seu papel.
 - Legado: preservar integralmente a pasta `Astrael/`.
 
 Leia o template completo antes da primeira criação na sessão e reutilize essa leitura enquanto ele não mudar. Confira exemplos v2 disponíveis e nomes existentes antes de salvar. A ausência das pastas opcionais não bloqueia a criação de prompts; crie apenas os diretórios necessários.
